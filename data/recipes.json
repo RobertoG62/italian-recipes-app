@@ -91,6 +91,372 @@
       "tags": ["חריף", "רומאי", "צ'ילי", "מהיר"]
     },
     {
+      "id": "fettuccine-alfredo",
+      "title": "פטוצ'יני אלפרדו",
+      "originalName": "Fettuccine Alfredo",
+      "description": "פסטה קלאסית עם רוטב קרם עשיר מחמאה ופרמזן",
+      "category": "פסטה",
+      "image": "images/Fettuccine_Alfredo.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "פטוצ'יני", "quantity": "400", "unit": "גרם" },
+        { "name": "חמאה", "quantity": "100", "unit": "גרם" },
+        { "name": "שמנת מתוקה", "quantity": "250", "unit": "מ״ל" },
+        { "name": "גבינת פרמזן מגוררת", "quantity": "150", "unit": "גרם" },
+        { "name": "אגוז מוסקט", "quantity": "1/4", "unit": "כפית" },
+        { "name": "מלח ופלפל", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "בשלו את הפטוצ'יני במים רותחים ומלוחים עד אל דנטה",
+        "בינתיים, המסו חמאה במחבת גדולה על אש בינונית",
+        "הוסיפו שמנת והביאו לרתיחה קלה",
+        "סננו את הפסטה ושמרו כוס ממי הבישול",
+        "הוסיפו את הפסטה למחבת עם הרוטב. הורידו מהאש",
+        "הוסיפו פרמזן והתבלו באגוז מוסקט, מלח ופלפל. ערבבו עד שהרוטב קרמי",
+        "הוסיפו מעט ממי הבישול אם הרוטב סמיך מדי. הגישו מיד"
+      ],
+      "tags": ["קרמי", "עשיר", "פשוט", "אלגנטי"]
+    },
+    {
+      "id": "cacio-e-pepe",
+      "title": "קאצ'ו אה פפה",
+      "originalName": "Cacio e Pepe",
+      "description": "פסטה רומית מינימליסטית עם גבינת פקורינו ופלפל שחור",
+      "category": "פסטה",
+      "image": "images/Cacio_e_Pepe.jpg",
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "ספגטי או טונרלי", "quantity": "400", "unit": "גרם" },
+        { "name": "גבינת פקורינו רומנו מגוררת", "quantity": "200", "unit": "גרם" },
+        { "name": "פלפל שחור גרוס טרי", "quantity": "2", "unit": "כפיות" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "בשלו את הפסטה במים רותחים ומלוחים עד אל דנטה",
+        "טגנו פלפל שחור גרוס במחבת יבשה דקה אחת",
+        "שמרו 2 כוסות ממי בישול הפסטה לפני הסינון",
+        "הוסיפו כוס ממי הבישול לפלפל במחבת",
+        "סננו את הפסטה והוסיפו למחבת",
+        "הוסיפו פקורינו מגורר והתחילו לערבב במהירות",
+        "הוסיפו עוד ממי הבישול בהדרגה תוך ערבוב עד שנוצר רוטב קרמי",
+        "הגישו מיד עם עוד פקורינו ופלפל"
+      ],
+      "tags": ["פשוט", "רומאי", "מסורתי", "גבינה"]
+    },
+    {
+      "id": "pasta-alla-norma",
+      "title": "פסטה אלה נורמה",
+      "originalName": "Pasta alla Norma",
+      "description": "מנה סיציליאנית עם חצילים מטוגנים, עגבניות וריקוטה מלוחה",
+      "category": "פסטה",
+      "image": "images/Pasta_alla_Norma.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "ריגטוני או פנה", "quantity": "400", "unit": "גרם" },
+        { "name": "חצילים", "quantity": "2", "unit": "יח'" },
+        { "name": "עגבניות קלופות", "quantity": "500", "unit": "גרם" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "בזיליקום טרי", "quantity": "1", "unit": "חופן" },
+        { "name": "ריקוטה סלטה (או פטה)", "quantity": "100", "unit": "גרם" },
+        { "name": "שמן זית", "quantity": "100", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "חתכו חצילים לקוביות, המליחו והניחו 20 דקות. שטפו וייבשו",
+        "טגנו קוביות חצילים בשמן זית עד שזהובות. סננו על נייר סופג",
+        "באותו שמן, טגנו שום קצוץ עד שמזהיב",
+        "הוסיפו עגבניות כתושות ובשלו 15 דקות. הוסיפו בזיליקום",
+        "בשלו את הפסטה עד אל דנטה",
+        "ערבבו פסטה עם רוטב העגבניות והחצילים המטוגנים",
+        "הגישו עם ריקוטה סלטה מגוררת או פוררת ועלי בזיליקום"
+      ],
+      "tags": ["סיציליאני", "חצילים", "צמחוני", "מסורתי"]
+    },
+    {
+      "id": "pesto-genovese",
+      "title": "פסטה עם פסטו ג'נובזה",
+      "originalName": "Pasta al Pesto Genovese",
+      "description": "פסטה עם רוטב פסטו טרי מבזיליקום, אגוזי פיניה ופרמזן",
+      "category": "פסטה",
+      "image": "images/Pesto_Genovese.jpg",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "טרופיה או לינגוויני", "quantity": "400", "unit": "גרם" },
+        { "name": "בזיליקום טרי", "quantity": "2", "unit": "כוסות" },
+        { "name": "אגוזי פיניה", "quantity": "50", "unit": "גרם" },
+        { "name": "שום", "quantity": "2", "unit": "שיניים" },
+        { "name": "פרמזן מגורד", "quantity": "80", "unit": "גרם" },
+        { "name": "שמן זית", "quantity": "120", "unit": "מ״ל" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "טחנו בזיליקום, אגוזי פיניה ושום במעבד מזון",
+        "הוסיפו פרמזן ושמן זית בהדרגה תוך טחינה עד לקבלת משחה חלקה",
+        "תבלו במלח לפי הטעם",
+        "בשלו את הפסטה במים רותחים ומלוחים עד אל דנטה",
+        "שמרו כוס ממי הבישול. סננו את הפסטה",
+        "ערבבו פסטה עם הפסטו. הוסיפו מעט ממי הבישול להשגת מרקם קרמי",
+        "הגישו עם פרמזן נוסף ועלי בזיליקום טריים"
+      ],
+      "tags": ["ג'נובה", "בזיליקום", "אגוזים", "טרי"]
+    },
+    {
+      "id": "aglio-e-olio",
+      "title": "אליו אה אוליו",
+      "originalName": "Spaghetti Aglio e Olio",
+      "description": "ספגטי פשוט ומושלם עם שום, שמן זית ופלפל צ'ילי",
+      "category": "פסטה",
+      "image": "images/Aglio_e_Olio.jpg",
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "ספגטי", "quantity": "400", "unit": "גרם" },
+        { "name": "שום", "quantity": "6", "unit": "שיניים" },
+        { "name": "שמן זית איכותי", "quantity": "100", "unit": "מ״ל" },
+        { "name": "פלפל צ'ילי יבש", "quantity": "1", "unit": "כפית" },
+        { "name": "פטרוזיליה טרייה", "quantity": "1/2", "unit": "כוס" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "בשלו ספגטי במים רותחים ומלוחים עד אל דנטה",
+        "בינתיים, פרסו שום דק מאוד",
+        "חממו שמן זית במחבת גדולה, הוסיפו שום ופלפל צ'ילי",
+        "טגנו על אש נמוכה עד שהשום זהוב בהיר (אל תשרפו!)",
+        "שמרו כוס ממי בישול הפסטה",
+        "סננו את הפסטה והוסיפו למחבת עם השום",
+        "הוסיפו מעט ממי הבישול ופטרוזיליה קצוצה. ערבבו היטב",
+        "הגישו מיד עם פרמזן אופציונלי"
+      ],
+      "tags": ["פשוט", "מהיר", "שום", "מינימליסטי"]
+    },
+    {
+      "id": "pasta-alla-gricia",
+      "title": "פסטה אלה גריצ'ה",
+      "originalName": "Pasta alla Gricia",
+      "description": "קרבונרה ללא ביצים - גואנצ'לה, פקורינו ופלפל שחור",
+      "category": "פסטה",
+      "image": "images/Pasta_alla_Gricia.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "ריגטוני", "quantity": "400", "unit": "גרם" },
+        { "name": "גואנצ'לה", "quantity": "200", "unit": "גרם" },
+        { "name": "פקורינו רומנו מגורד", "quantity": "150", "unit": "גרם" },
+        { "name": "פלפל שחור גרוס", "quantity": "1", "unit": "כפית" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "חתכו גואנצ'לה לקוביות וטגנו עד שפריך והשומן נמס",
+        "בשלו את הפסטה במים רותחים ומלוחים עד אל דנטה",
+        "שמרו 2 כוסות ממי הבישול",
+        "סננו את הפסטה והוסיפו לגואנצ'לה עם כוס ממי הבישול",
+        "הוסיפו פקורינו ופלפל שחור, ערבבו מהר",
+        "הוסיפו עוד ממי הבישול עד לקבלת רוטב קרמי",
+        "הגישו מיד עם עוד פקורינו ופלפל"
+      ],
+      "tags": ["רומאי", "גואנצ'לה", "פשוט", "מסורתי"]
+    },
+    {
+      "id": "pasta-e-fagioli",
+      "title": "פסטה אה פג'ולי",
+      "originalName": "Pasta e Fagioli",
+      "description": "מרק איטלקי עשיר עם פסטה ושעועית",
+      "category": "פסטה",
+      "image": "images/Pasta_e_Fagioli.jpg",
+      "prepTime": 15,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "דיטליני או פסטה קטנה", "quantity": "200", "unit": "גרם" },
+        { "name": "שעועית קנליני משומרת", "quantity": "400", "unit": "גרם" },
+        { "name": "עגבניות קלופות", "quantity": "400", "unit": "גרם" },
+        { "name": "בצל גזר וסלרי", "quantity": "1/2", "unit": "כוס מכל אחד" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "מרק ירקות", "quantity": "1", "unit": "ליטר" },
+        { "name": "רוזמרין", "quantity": "2", "unit": "ענפים" }
+      ],
+      "instructions": [
+        "קצצו בצל, גזר וסלרי דק",
+        "טגנו ירקות בשמן זית עד שמתרככים",
+        "הוסיפו שום קצוץ וטגנו עוד דקה",
+        "הוסיפו עגבניות, שעועית, מרק ורוזמרין",
+        "הביאו לרתיחה, הנמיכו חום ובשלו 25 דקות",
+        "טחנו חלק מהמרק (כ-1/3) ליצירת מרקם סמיך יותר",
+        "הוסיפו פסטה ובשלו עד שאל דנטה",
+        "הגישו עם פרמזן ושמן זית"
+      ],
+      "tags": ["מרק", "שעועית", "חורפי", "מזין"]
+    },
+    {
+      "id": "pasta-puttanesca",
+      "title": "פסטה פוטנסקה",
+      "originalName": "Pasta alla Puttanesca",
+      "description": "פסטה עם רוטב עגבניות עשיר, זיתים, קפרים ואנשובי",
+      "category": "פסטה",
+      "image": "images/Pasta_Puttanesca.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "ספגטי", "quantity": "400", "unit": "גרם" },
+        { "name": "עגבניות קלופות", "quantity": "500", "unit": "גרם" },
+        { "name": "זיתים שחורים", "quantity": "100", "unit": "גרם" },
+        { "name": "קפרים", "quantity": "3", "unit": "כפות" },
+        { "name": "אנשובי", "quantity": "6", "unit": "פילה" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "פלפל צ'ילי", "quantity": "1", "unit": "יח'" }
+      ],
+      "instructions": [
+        "חתכו זיתים לחצאים וקפרים גסות",
+        "חממו שמן זית וטגנו שום קצוץ ואנשובי עד שהאנשובי מתמוסס",
+        "הוסיפו צ'ילי, עגבניות כתושות, זיתים וקפרים",
+        "בשלו 15 דקות על אש בינונית",
+        "בינתיים, בשלו ספגטי עד אל דנטה",
+        "סננו והוסיפו לרוטב",
+        "ערבבו היטב והגישו עם פטרוזיליה"
+      ],
+      "tags": ["זיתים", "אנשובי", "מלוח", "נפוליטני"]
+    },
+    {
+      "id": "tagliatelle-al-ragu",
+      "title": "טליאטלה אל ראגו",
+      "originalName": "Tagliatelle al Ragù",
+      "description": "פסטה ביתית עם רוטב בשר בולונז אותנטי",
+      "category": "פסטה",
+      "image": "images/Tagliatelle_al_Ragu.jpg",
+      "prepTime": 20,
+      "cookTime": 180,
+      "servings": 6,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "טליאטלה טרייה", "quantity": "500", "unit": "גרם" },
+        { "name": "בשר טחון (בקר+חזיר)", "quantity": "500", "unit": "גרם" },
+        { "name": "רסק עגבניות", "quantity": "200", "unit": "גרם" },
+        { "name": "יין אדום", "quantity": "200", "unit": "מ״ל" },
+        { "name": "חלב", "quantity": "200", "unit": "מ״ל" },
+        { "name": "בצל גזר סלרי", "quantity": "1/2", "unit": "כוס מכל אחד" },
+        { "name": "מרק בקר", "quantity": "500", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "קצצו דק בצל, גזר וסלרי",
+        "טגנו ירקות בחמאה עד שמתרככים",
+        "הוסיפו בשר טחון ובשלו עד שהשתחים",
+        "הוסיפו יין אדום והתאיידו",
+        "הוסיפו רסק עגבניות, מרק וחלב",
+        "בשלו על אש נמוכה 3 שעות, ערבבו מדי פעם",
+        "בשלו טליאטלה טרייה 3-4 דקות",
+        "ערבבו עם הרוטב והגישו עם פרמזן"
+      ],
+      "tags": ["בולונז", "בשר", "מסורתי", "בישול איטי"]
+    },
+    {
+      "id": "pasta-con-le-sarde",
+      "title": "פסטה קון לה סרדה",
+      "originalName": "Pasta con le Sarde",
+      "description": "מנה סיציליאנית עם סרדינים, שומר פראי וצימוקים",
+      "category": "פסטה",
+      "image": "images/Pasta_con_le_Sarde.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בוקטיני", "quantity": "400", "unit": "גרם" },
+        { "name": "סרדינים טריים", "quantity": "300", "unit": "גרם" },
+        { "name": "שומר פראי", "quantity": "200", "unit": "גרם" },
+        { "name": "צימוקים", "quantity": "50", "unit": "גרם" },
+        { "name": "אגוזי פיניה", "quantity": "50", "unit": "גרם" },
+        { "name": "אנשובי", "quantity": "4", "unit": "פילה" },
+        { "name": "זעפרן", "quantity": "1/2", "unit": "כפית" }
+      ],
+      "instructions": [
+        "בשלו שומר עד רך. שמרו מי הבישול",
+        "טגנו אנשובי בשמן זית עד שמתמוסס",
+        "הוסיפו סרדינים ובשלו 5 דקות",
+        "הוסיפו שומר, צימוקים, אגוזים וזעפרן",
+        "בשלו פסטה במי השומר עד אל דנטה",
+        "ערבבו עם הרוטב",
+        "הגישו עם פירורי לחם מטוגנים"
+      ],
+      "tags": ["סיציליאני", "דגים", "זעפרן", "מיוחד"]
+    },
+    {
+      "id": "orecchiette-cime-di-rapa",
+      "title": "אורקייטה עם עלי לפת",
+      "originalName": "Orecchiette con Cime di Rapa",
+      "description": "פסטה פוליאנית עם עלי לפת, שום ואנשובי",
+      "category": "פסטה",
+      "image": "images/Orecchiette_Cime_di_Rapa.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "אורקייטה", "quantity": "400", "unit": "גרם" },
+        { "name": "עלי לפת (או ברוקולי)", "quantity": "500", "unit": "גרם" },
+        { "name": "שום", "quantity": "4", "unit": "שיניים" },
+        { "name": "אנשובי", "quantity": "6", "unit": "פילה" },
+        { "name": "פלפל צ'ילי", "quantity": "1", "unit": "יח'" },
+        { "name": "שמן זית", "quantity": "80", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "נקו עלי לפת וחתכו גסות",
+        "בשלו עלי לפת במים רותחים 5 דקות",
+        "הוסיפו פסטה לאותו מים ובשלו יחד",
+        "טגנו שום, אנשובי וצ'ילי בשמן זית",
+        "סננו פסטה ועלים, שמרו מים",
+        "ערבבו עם תערובת השום והאנשובי",
+        "הוסיפו מעט ממי הבישול והגישו"
+      ],
+      "tags": ["פוליאני", "ירקות", "אנשובי", "מסורתי"]
+    },
+    {
+      "id": "pasta-amatriciana",
+      "title": "פסטה אמטריצ'אנה",
+      "originalName": "Pasta all'Amatriciana",
+      "description": "פסטה רומית עם גואנצ'לה, עגבניות ופקורינו",
+      "category": "פסטה",
+      "image": "images/Pasta_Amatriciana.jpg",
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בוקטיני או ספגטי", "quantity": "400", "unit": "גרם" },
+        { "name": "גואנצ'לה", "quantity": "150", "unit": "גרם" },
+        { "name": "עגבניות קלופות", "quantity": "400", "unit": "גרם" },
+        { "name": "פקורינו רומנו", "quantity": "100", "unit": "גרם" },
+        { "name": "יין לבן", "quantity": "50", "unit": "מ״ל" },
+        { "name": "פלפל צ'ילי", "quantity": "1", "unit": "יח'" }
+      ],
+      "instructions": [
+        "חתכו גואנצ'לה לרצועות וטגנו עד פריך",
+        "הוסיפו צ'ילי קצוץ ויין לבן",
+        "הוסיפו עגבניות כתושות ובשלו 15 דקות",
+        "בשלו פסטה עד אל דנטה",
+        "ערבבו עם הרוטב",
+        "הגישו עם פקורינו מגורד"
+      ],
+      "tags": ["רומאי", "גואנצ'לה", "עגבניות", "מסורתי"]
+    },
+    {
       "id": "pizza-margherita",
       "title": "פיצה מרגריטה",
       "originalName": "Pizza Margherita",
@@ -154,6 +520,188 @@
       "tags": ["גבינות", "עשיר", "קרמי", "פשוט"]
     },
     {
+      "id": "pizza-napoletana",
+      "title": "פיצה נפוליטנה",
+      "originalName": "Pizza Napoletana",
+      "description": "פיצה נאפוליטנית עם אנשובי, קפרים וזיתים",
+      "category": "פיצה",
+      "image": "images/Pizza_Napoletana.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בצק פיצה", "quantity": "1", "unit": "מנה" },
+        { "name": "רסק עגבניות", "quantity": "300", "unit": "גרם" },
+        { "name": "מוצרלה", "quantity": "200", "unit": "גרם" },
+        { "name": "אנשובי", "quantity": "8", "unit": "פילה" },
+        { "name": "קפרים", "quantity": "3", "unit": "כפות" },
+        { "name": "זיתים שחורים", "quantity": "50", "unit": "גרם" },
+        { "name": "אורגנו יבש", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "הכינו ורדדו בצק פיצה",
+        "מרחו רסק עגבניות על הבצק",
+        "הוסיפו מוצרלה קרועה",
+        "חלקו אנשובי, קפרים וזיתים",
+        "פזרו אורגנו",
+        "אפו בתנור חם 10-12 דקות",
+        "הגישו עם שמן זית"
+      ],
+      "tags": ["אנשובי", "מלוח", "נאפולי", "מסורתי"]
+    },
+    {
+      "id": "pizza-marinara",
+      "title": "פיצה מרינרה",
+      "originalName": "Pizza Marinara",
+      "description": "פיצה נאפוליטנית פשוטה עם עגבניות, שום ואורגנו בלבד",
+      "category": "פיצה",
+      "image": "images/Pizza_Marinara.jpg",
+      "prepTime": 120,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בצק פיצה", "quantity": "1", "unit": "מנה" },
+        { "name": "רסק עגבניות", "quantity": "400", "unit": "גרם" },
+        { "name": "שום", "quantity": "4", "unit": "שיניים" },
+        { "name": "אורגנו יבש", "quantity": "2", "unit": "כפיות" },
+        { "name": "שמן זית", "quantity": "60", "unit": "מ״ל" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "הכינו ורדדו בצק",
+        "מרחו רסק עגבניות",
+        "פזרו שום פרוס דק",
+        "הוסיפו אורגנו ומלח",
+        "טפטפו שמן זית",
+        "אפו 8-10 דקות בתנור מאוד חם",
+        "הגישו מיד"
+      ],
+      "tags": ["טבעוני", "פשוט", "שום", "קלאסי"]
+    },
+    {
+      "id": "pizza-capricciosa",
+      "title": "פיצה קפריצ'וזה",
+      "originalName": "Pizza Capricciosa",
+      "description": "פיצה עשירה עם פטריות, ארטישוק, זיתים ופרושוטו",
+      "category": "פיצה",
+      "image": "images/Pizza_Capricciosa.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בצק פיצה", "quantity": "1", "unit": "מנה" },
+        { "name": "רסק עגבניות", "quantity": "300", "unit": "גרם" },
+        { "name": "מוצרלה", "quantity": "250", "unit": "גרם" },
+        { "name": "פטריות", "quantity": "100", "unit": "גרם" },
+        { "name": "לבבות ארטישוק", "quantity": "100", "unit": "גרם" },
+        { "name": "פרושוטו", "quantity": "80", "unit": "גרם" },
+        { "name": "זיתים שחורים", "quantity": "50", "unit": "גרם" }
+      ],
+      "instructions": [
+        "רדדו בצק ומרחו רסק עגבניות",
+        "הוסיפו מוצרלה קרועה",
+        "חלקו פטריות פרוסות, ארטישוק חתוך",
+        "הוסיפו זיתים",
+        "אפו 10 דקות",
+        "הוסיפו פרושוטו בדקות האחרונות",
+        "הגישו חם"
+      ],
+      "tags": ["עשיר", "פטריות", "ארטישוק", "פרושוטו"]
+    },
+    {
+      "id": "pizza-diavola",
+      "title": "פיצה דיאבולה",
+      "originalName": "Pizza Diavola",
+      "description": "פיצה חריפה עם סלמי פיקנטי ופלפל צ'ילי",
+      "category": "פיצה",
+      "image": "images/Pizza_Diavola.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בצק פיצה", "quantity": "1", "unit": "מנה" },
+        { "name": "רסק עגבניות", "quantity": "300", "unit": "גרם" },
+        { "name": "מוצרלה", "quantity": "250", "unit": "גרם" },
+        { "name": "סלמי פיקנטי", "quantity": "100", "unit": "גרם" },
+        { "name": "פלפל צ'ילי טרי", "quantity": "2", "unit": "יח'" },
+        { "name": "אורגנו", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "רדדו בצק ומרחו רסק",
+        "הוסיפו מוצרלה",
+        "חלקו סלמי פיקנטי",
+        "פזרו פלפל צ'ילי פרוס",
+        "הוסיפו אורגנו",
+        "אפו 10-12 דקות",
+        "הגישו חם עם שמן צ'ילי אופציונלי"
+      ],
+      "tags": ["חריף", "סלמי", "צ'ילי", "פיקנטי"]
+    },
+    {
+      "id": "pizza-prosciutto-funghi",
+      "title": "פיצה פרושוטו אה פונגי",
+      "originalName": "Pizza Prosciutto e Funghi",
+      "description": "פיצה קלאסית עם פרושוטו קוטו ופטריות",
+      "category": "פיצה",
+      "image": "images/Pizza_Prosciutto_Funghi.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בצק פיצה", "quantity": "1", "unit": "מנה" },
+        { "name": "רסק עגבניות", "quantity": "300", "unit": "גרם" },
+        { "name": "מוצרלה", "quantity": "250", "unit": "גרם" },
+        { "name": "פרושוטו קוטו", "quantity": "100", "unit": "גרם" },
+        { "name": "פטריות טריות", "quantity": "150", "unit": "גרם" }
+      ],
+      "instructions": [
+        "פרסו פטריות דק",
+        "רדדו בצק ומרחו רסק",
+        "הוסיפו מוצרלה ופטריות",
+        "אפו 10 דקות",
+        "הוסיפו פרושוטו קוטו",
+        "אפו עוד 2 דקות",
+        "הגישו מיד"
+      ],
+      "tags": ["פרושוטו", "פטריות", "קלאסי", "פשוט"]
+    },
+    {
+      "id": "pizza-bianca",
+      "title": "פיצה ביאנקה",
+      "originalName": "Pizza Bianca",
+      "description": "פיצה לבנה עם רוזמרין ושמן זית ללא רוטב עגבניות",
+      "category": "פיצה",
+      "image": "images/Pizza_Bianca.jpg",
+      "prepTime": 120,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בצק פיצה", "quantity": "1", "unit": "מנה" },
+        { "name": "מוצרלה", "quantity": "200", "unit": "גרם" },
+        { "name": "ריקוטה", "quantity": "150", "unit": "גרם" },
+        { "name": "פרמזן", "quantity": "50", "unit": "גרם" },
+        { "name": "רוזמרין טרי", "quantity": "2", "unit": "ענפים" },
+        { "name": "שום", "quantity": "2", "unit": "שיניים" },
+        { "name": "שמן זית", "quantity": "60", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "רדדו בצק וצבעו בשמן זית",
+        "פזרו שום פרוס דק",
+        "חלקו ריקוטה, מוצרלה ופרמזן",
+        "פזרו עלי רוזמרין",
+        "טפטפו שמן זית",
+        "אפו 10 דקות",
+        "הגישו עם פלפל שחור"
+      ],
+      "tags": ["לבנה", "גבינות", "רוזמרין", "פשוט"]
+    },
+    {
       "id": "risotto-ai-funghi",
       "title": "ריזוטו אל פונגי",
       "originalName": "Risotto ai Funghi",
@@ -186,6 +734,128 @@
         "הגישו מיד עם פטרוזיליה ופרמזן נוסף"
       ],
       "tags": ["פטריות", "קרמי", "עשיר", "איטלקי"]
+    },
+    {
+      "id": "risotto-alla-milanese",
+      "title": "ריזוטו אלה מילנזה",
+      "originalName": "Risotto alla Milanese",
+      "description": "ריזוטו צהוב מילנזי עם זעפרן וחמאה",
+      "category": "ריזוטו",
+      "image": "images/Risotto_Milanese.jpg",
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "אורז ארבוריו", "quantity": "320", "unit": "גרם" },
+        { "name": "מרק בקר", "quantity": "1.5", "unit": "ליטר" },
+        { "name": "זעפרן", "quantity": "1/2", "unit": "כפית" },
+        { "name": "יין לבן", "quantity": "150", "unit": "מ״ל" },
+        { "name": "בצל", "quantity": "1", "unit": "יח'" },
+        { "name": "חמאה", "quantity": "80", "unit": "גרם" },
+        { "name": "פרמזן", "quantity": "80", "unit": "גרם" }
+      ],
+      "instructions": [
+        "חממו מרק בסיר נפרד",
+        "מסיגו בצל קצוץ בחמאה",
+        "הוסיפו אורז וערבבו 2 דקות",
+        "הוסיפו יין לבן",
+        "הוסיפו זעפרן שהושרה במעט מרק חם",
+        "הוסיפו מרק בהדרגה תוך ערבוב 18-20 דקות",
+        "סיימו עם חמאה ופרמזן",
+        "הגישו מיד"
+      ],
+      "tags": ["זעפרן", "מילנזי", "צהוב", "קלאסי"]
+    },
+    {
+      "id": "risotto-nero-di-seppia",
+      "title": "ריזוטו אל נרו די ספיה",
+      "originalName": "Risotto al Nero di Seppia",
+      "description": "ריזוטו שחור עם דיו דיונון ופירות ים",
+      "category": "ריזוטו",
+      "image": "images/Risotto_Nero_di_Seppia.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "אורז ארבוריו", "quantity": "320", "unit": "גרם" },
+        { "name": "דיונון עם דיו", "quantity": "400", "unit": "גרם" },
+        { "name": "מרק דגים", "quantity": "1.5", "unit": "ליטר" },
+        { "name": "יין לבן", "quantity": "150", "unit": "מ״ל" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "פטרוזיליה", "quantity": "1/2", "unit": "כוס" }
+      ],
+      "instructions": [
+        "נקו דיונון ושמרו שקיות דיו",
+        "חתכו דיונון לטבעות",
+        "טגנו שום בשמן זית",
+        "הוסיפו דיונון ובשלו 5 דקות",
+        "הוסיפו אורז, יין, ודיו",
+        "הוסיפו מרק בהדרגה 20 דקות",
+        "הגישו עם פטרוזיליה"
+      ],
+      "tags": ["פירות ים", "דיונון", "שחור", "מיוחד"]
+    },
+    {
+      "id": "risotto-frutti-di-mare",
+      "title": "ריזוטו איי פרוטי די מארה",
+      "originalName": "Risotto ai Frutti di Mare",
+      "description": "ריזוטו עשיר עם פירות ים מעורבים",
+      "category": "ריזוטו",
+      "image": "images/Risotto_Frutti_di_Mare.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "אורז ארבוריו", "quantity": "320", "unit": "גרם" },
+        { "name": "פירות ים מעורבים", "quantity": "500", "unit": "גרם" },
+        { "name": "מרק דגים", "quantity": "1.5", "unit": "ליטר" },
+        { "name": "יין לבן", "quantity": "150", "unit": "מ״ל" },
+        { "name": "עגבניות שרי", "quantity": "200", "unit": "גרם" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" }
+      ],
+      "instructions": [
+        "נקו פירות ים",
+        "טגנו שום בשמן זית",
+        "הוסיפו עגבניות חתוכות",
+        "הוסיפו אורז ויין",
+        "הוסיפו מרק בהדרגה",
+        "בדקות האחרונות הוסיפו פירות ים",
+        "הגישו עם פטרוזיליה"
+      ],
+      "tags": ["פירות ים", "עגבניות", "עשיר", "מיוחד"]
+    },
+    {
+      "id": "risotto-alla-parmigiana",
+      "title": "ריזוטו אלה פרמג'אנה",
+      "originalName": "Risotto alla Parmigiana",
+      "description": "ריזוטו פשוט ועשיר עם פרמזן וחמאה",
+      "category": "ריזוטו",
+      "image": "images/Risotto_Parmigiana.jpg",
+      "prepTime": 5,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "אורז ארבוריו", "quantity": "320", "unit": "גרם" },
+        { "name": "מרק ירקות", "quantity": "1.5", "unit": "ליטר" },
+        { "name": "יין לבן", "quantity": "150", "unit": "מ״ל" },
+        { "name": "בצל", "quantity": "1", "unit": "יח'" },
+        { "name": "חמאה", "quantity": "100", "unit": "גרם" },
+        { "name": "פרמזן", "quantity": "150", "unit": "גרם" }
+      ],
+      "instructions": [
+        "חממו מרק בסיר",
+        "מסיגו בצל קצוץ בחמאה",
+        "הוסיפו אורז וטגנו 2 דקות",
+        "הוסיפו יין והמתינו לספיגה",
+        "הוסיפו מרק בהדרגה 18-20 דקות",
+        "סיימו עם חמאה ופרמזן רב",
+        "הגישו מיד עם פלפל שחור"
+      ],
+      "tags": ["פשוט", "פרמזן", "קלאסי", "קרמי"]
     },
     {
       "id": "tiramisu",
@@ -249,6 +919,302 @@
         "הגישו כשהן או הפכו למנה. קשטו בפירות יער טריים או רוטב פירות"
       ],
       "tags": ["קרם", "וניל", "קל", "אלגנטי"]
+    },
+    {
+      "id": "cannoli-siciliani",
+      "title": "קנולי סיציליאני",
+      "originalName": "Cannoli Siciliani",
+      "description": "צינורות בצק מטוגנים ממולאים בקרם ריקוטה מתוק",
+      "category": "קינוחים",
+      "image": "images/Cannoli_Siciliani.jpg",
+      "prepTime": 45,
+      "cookTime": 20,
+      "servings": 12,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "קמח", "quantity": "250", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "30", "unit": "גרם" },
+        { "name": "חמאה", "quantity": "30", "unit": "גרם" },
+        { "name": "ריקוטה", "quantity": "500", "unit": "גרם" },
+        { "name": "סוכר אבקה", "quantity": "150", "unit": "גרם" },
+        { "name": "שוקולד צ'יפס", "quantity": "100", "unit": "גרם" },
+        { "name": "פיסטוק קצוץ", "quantity": "50", "unit": "גרם" }
+      ],
+      "instructions": [
+        "הכינו בצק מקמח, סוכר, חמאה ויין לבן",
+        "רדדו דק מאוד וחתכו עיגולים",
+        "עטפו סביב צינורות מתכת",
+        "טגנו בשמן עמוק עד זהוב",
+        "הכינו מילוי: ריקוטה, סוכר אבקה ושוקולד צ'יפס",
+        "מלאו צינורות לפני ההגשה",
+        "קשטו בפיסטוק ואבקת סוכר"
+      ],
+      "tags": ["סיציליאני", "ריקוטה", "מטוגן", "מסורתי"]
+    },
+    {
+      "id": "gelato",
+      "title": "ג'לטו איטלקי",
+      "originalName": "Gelato Italiano",
+      "description": "גלידה איטלקית קרמית וטבעית בטעמים שונים",
+      "category": "קינוחים",
+      "image": "images/Gelato.jpg",
+      "prepTime": 30,
+      "cookTime": 10,
+      "servings": 8,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חלב מלא", "quantity": "500", "unit": "מ״ל" },
+        { "name": "שמנת", "quantity": "200", "unit": "מ״ל" },
+        { "name": "סוכר", "quantity": "150", "unit": "גרם" },
+        { "name": "חלמונים", "quantity": "4", "unit": "יח'" },
+        { "name": "תמצית וניל", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "חממו חלב ושמנת עד כמעט רתיחה",
+        "טרפו חלמונים עם סוכר עד בהיר",
+        "הוסיפו חלב חם בהדרגה לחלמונים תוך ערבוב",
+        "החזירו לסיר ובשלו עד 82 מעלות",
+        "הורידו מהאש והוסיפו וניל",
+        "צננו במקרר 4 שעות",
+        "טחנו במכונת גלידה לפי ההוראות"
+      ],
+      "tags": ["גלידה", "קרמי", "וניל", "קר"]
+    },
+    {
+      "id": "affogato",
+      "title": "אפוגטו",
+      "originalName": "Affogato",
+      "description": "קינוח פשוט ומושלם - כדור ג'לטו ונילי עם אספרסו חם",
+      "category": "קינוחים",
+      "image": "images/Affogato.jpg",
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "ג'לטו וניל איכותי", "quantity": "4", "unit": "כדורים" },
+        { "name": "אספרסו חם", "quantity": "4", "unit": "יח'" },
+        { "name": "ליקר אמרטו (אופציונלי)", "quantity": "40", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "הניחו כדור ג'לטו בכוס או קערה",
+        "הכינו אספרסו טרי",
+        "מזגו אספרסו חם מעל הג'לטו",
+        "הוסיפו ליקר אמרטו אם רוצים",
+        "הגישו מיד"
+      ],
+      "tags": ["קפה", "גלידה", "פשוט", "מהיר"]
+    },
+    {
+      "id": "zabaione",
+      "title": "זבאיונה",
+      "originalName": "Zabaione",
+      "description": "קרם איטלקי חם ואווירי מחלמונים, סוכר ויין מרסלה",
+      "category": "קינוחים",
+      "image": "images/Zabaione.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חלמונים", "quantity": "6", "unit": "יח'" },
+        { "name": "סוכר", "quantity": "100", "unit": "גרם" },
+        { "name": "יין מרסלה", "quantity": "120", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "הניחו קערה על בן מארי",
+        "טרפו חלמונים עם סוכר",
+        "הוסיפו מרסלה",
+        "טרפו ללא הפסקה 10-12 דקות",
+        "הקרם יתפח ויהפוך לקרמי ואווירי",
+        "הגישו חם בכוסות",
+        "אופציונלי: עם פירות יער או ביסקוויטים"
+      ],
+      "tags": ["קרם", "מרסלה", "חם", "מסורתי"]
+    },
+    {
+      "id": "sfogliatella",
+      "title": "ספוליאטלה",
+      "originalName": "Sfogliatella",
+      "description": "מאפה נאפוליטני שכבות עם מילוי ריקוטה וקרם סולת",
+      "category": "קינוחים",
+      "image": "images/Sfogliatella.jpg",
+      "prepTime": 90,
+      "cookTime": 25,
+      "servings": 12,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "בצק פילו", "quantity": "500", "unit": "גרם" },
+        { "name": "ריקוטה", "quantity": "250", "unit": "גרם" },
+        { "name": "סולת", "quantity": "100", "unit": "גרם" },
+        { "name": "חלב", "quantity": "250", "unit": "מ״ל" },
+        { "name": "סוכר", "quantity": "150", "unit": "גרם" },
+        { "name": "תמצית וניל", "quantity": "1", "unit": "כפית" },
+        { "name": "פירות מסוכרים", "quantity": "100", "unit": "גרם" }
+      ],
+      "instructions": [
+        "הכינו קרם סולת: בשלו סולת בחלב ועם סוכר",
+        "צננו והוסיפו ריקוטה, וניל ופירות מסוכרים",
+        "רדדו בצק פילו דק",
+        "צבעו בחמאה מומסת בין השכבות",
+        "חתכו מלבנים ומלאו בקרם",
+        "עצבו לצורה קונית",
+        "אפו ב-180 מעלות 20-25 דקות"
+      ],
+      "tags": ["נאפולי", "שכבות", "ריקוטה", "מורכב"]
+    },
+    {
+      "id": "biscotti",
+      "title": "ביסקוטי",
+      "originalName": "Biscotti di Prato",
+      "description": "עוגיות איטלקיות פריכות עם שקדים לטבילה בקפה או ויןדסרט",
+      "category": "קינוחים",
+      "image": "images/Biscotti.jpg",
+      "prepTime": 20,
+      "cookTime": 50,
+      "servings": 24,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "קמח", "quantity": "300", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "200", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "3", "unit": "יח'" },
+        { "name": "שקדים שלמים", "quantity": "150", "unit": "גרם" },
+        { "name": "בייקינג פאודר", "quantity": "2", "unit": "כפיות" },
+        { "name": "תמצית שקדים", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "ערבבו קמח, סוכר ובייקינג פאודר",
+        "הוסיפו ביצים ותמצית שקדים",
+        "לשו והוסיפו שקדים",
+        "עצבו ל-2 בולי עץ שטוחים",
+        "אפו 30 דקות ב-175 מעלות",
+        "צננו 10 דקות וחתכו לפרוסות אלכסוניות",
+        "החזירו לתנור ל-15 דקות (כל צד 7-8 דקות)",
+        "צננו לחלוטין. יישמרו במשך שבועות"
+      ],
+      "tags": ["עוגיות", "שקדים", "פריך", "לשמירה"]
+    },
+    {
+      "id": "amaretti",
+      "title": "אמרטי",
+      "originalName": "Amaretti",
+      "description": "עוגיות שקדים איטלקיות רכות עם טעם מרק",
+      "category": "קינוחים",
+      "image": "images/Amaretti.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 20,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "אבקת שקדים", "quantity": "250", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "250", "unit": "גרם" },
+        { "name": "חלבוני ביצים", "quantity": "2", "unit": "יח'" },
+        { "name": "תמצית שקדים מרה", "quantity": "1/2", "unit": "כפית" },
+        { "name": "סוכר אבקה", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "ערבבו אבקת שקדים וסוכר",
+        "הוסיפו חלבונים ותמצית",
+        "לשו למשחה חלקה",
+        "עצבו כדורים קטנים",
+        "הניחו על תבנית עם נייר אפייה",
+        "פזרו סוכר אבקה",
+        "אפו ב-170 מעלות 12-15 דקות",
+        "צננו והגישו"
+      ],
+      "tags": ["שקדים", "רך", "פשוט", "מסורתי"]
+    },
+    {
+      "id": "panettone",
+      "title": "פנטונה",
+      "originalName": "Panettone",
+      "description": "עוגת חג מילנזית עם צימוקים ופירות מסוכרים",
+      "category": "קינוחים",
+      "image": "images/Panettone.jpg",
+      "prepTime": 240,
+      "cookTime": 50,
+      "servings": 12,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "קמח", "quantity": "500", "unit": "גרם" },
+        { "name": "חמאה", "quantity": "200", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "150", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "4", "unit": "יח'" },
+        { "name": "שמרים טריים", "quantity": "25", "unit": "גרם" },
+        { "name": "צימוקים", "quantity": "150", "unit": "גרם" },
+        { "name": "פירות מסוכרים", "quantity": "100", "unit": "גרם" }
+      ],
+      "instructions": [
+        "הכינו בצק שמרים עשיר",
+        "לשו היטב והניחו לתפיחה 2 שעות",
+        "הוסיפו חמאה, סוכר וביצים בהדרגה",
+        "הוסיפו צימוקים ופירות",
+        "הניחו לתפיחה נוספת",
+        "העבירו לתבנית פנטונה גבוהה",
+        "אפו שעה ב-170 מעלות",
+        "תלו הפוך עד שמתקרר"
+      ],
+      "tags": ["חג", "מילנו", "שמרים", "מסורתי"]
+    },
+    {
+      "id": "torta-caprese",
+      "title": "טורטה קפרזה",
+      "originalName": "Torta Caprese",
+      "description": "עוגת שוקולד ושקדים איטלקית ללא קמח",
+      "category": "קינוחים",
+      "image": "images/Torta_Caprese.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 10,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "שוקולד מריר", "quantity": "200", "unit": "גרם" },
+        { "name": "חמאה", "quantity": "200", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "200", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "4", "unit": "יח'" },
+        { "name": "אבקת שקדים", "quantity": "200", "unit": "גרם" },
+        { "name": "סוכר אבקה", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "המסו שוקולד וחמאה",
+        "הפרידו חלמונים וחלבונים",
+        "ערבבו חלמונים עם סוכר",
+        "הוסיפו שוקולד ואבקת שקדים",
+        "הקציפו חלבונים וקפלו פנימה",
+        "אפו ב-170 מעלות 35-40 דקות",
+        "צננו ואבקו בסוכר אבקה"
+      ],
+      "tags": ["שוקולד", "ללא גלוטן", "שקדים", "קפרי"]
+    },
+    {
+      "id": "crostata-di-frutta",
+      "title": "קרוסטטה די פרוטה",
+      "originalName": "Crostata di Frutta",
+      "description": "טארט איטלקית עם קרם ופטיסייר ופירות טריים",
+      "category": "קינוחים",
+      "image": "images/Crostata_di_Frutta.jpg",
+      "prepTime": 40,
+      "cookTime": 25,
+      "servings": 8,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "250", "unit": "גרם" },
+        { "name": "חמאה", "quantity": "125", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "100", "unit": "גרם" },
+        { "name": "חלמונים", "quantity": "2", "unit": "יח'" },
+        { "name": "חלב", "quantity": "500", "unit": "מ״ל" },
+        { "name": "פירות טריים", "quantity": "300", "unit": "גרם" }
+      ],
+      "instructions": [
+        "הכינו בצק פריך מקמח, חמאה, סוכר וחלמון",
+        "צננו 30 דקות",
+        "רדדו והניחו בתבנית טארט",
+        "אפו עיוור 20 דקות",
+        "הכינו קרם פטיסייר מחלב, חלמונים וסוכר",
+        "מלאו טארט אפוי בקרם קר",
+        "קשטו בפירות טריים"
+      ],
+      "tags": ["טארט", "פירות", "קרם", "צבעוני"]
     },
     {
       "id": "lasagna-bolognese",
@@ -320,6 +1286,246 @@
         "הגישו את האוסובוקו עם רוטב מהסיר, פזרו גרמולטה. מצוין עם ריזוטו צהוב או פולנטה"
       ],
       "tags": ["בשר", "איטלקי", "בישול איטי", "מילנו"]
+    },
+    {
+      "id": "saltimbocca-romana",
+      "title": "סלטימבוקה אלה רומנה",
+      "originalName": "Saltimbocca alla Romana",
+      "description": "נתחי עגל רכים עם פרושוטו ומרווה",
+      "category": "מנות עיקריות",
+      "image": "images/Saltimbocca_Romana.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "נתחי עגל דקים", "quantity": "8", "unit": "יח'" },
+        { "name": "פרושוטו", "quantity": "8", "unit": "פרוסות" },
+        { "name": "עלי מרווה טריים", "quantity": "16", "unit": "יח'" },
+        { "name": "יין לבן", "quantity": "150", "unit": "מ״ל" },
+        { "name": "חמאה", "quantity": "60", "unit": "גרם" },
+        { "name": "קמח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "הניחו על כל נתח עגל פרושוטו ועלי מרווה",
+        "חברו עם קיסם",
+        "ציפו בקמח בעדינות",
+        "טגנו בחמאה 2-3 דקות מכל צד",
+        "הוסיפו יין לבן",
+        "הפחיתו רוטב עד סמיך",
+        "הגישו מיד עם הרוטב"
+      ],
+      "tags": ["עגל", "פרושוטו", "מרווה", "רומאי"]
+    },
+    {
+      "id": "pollo-cacciatora",
+      "title": "פולו אלה קצ'אטורה",
+      "originalName": "Pollo alla Cacciatora",
+      "description": "עוף צייד - מבושל עם עגבניות, פטריות ועשבי תיבול",
+      "category": "מנות עיקריות",
+      "image": "images/Pollo_Cacciatora.jpg",
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "עוף חתוך לחלקים", "quantity": "1.5", "unit": "ק״ג" },
+        { "name": "עגבניות קלופות", "quantity": "500", "unit": "גרם" },
+        { "name": "פטריות", "quantity": "250", "unit": "גרם" },
+        { "name": "יין אדום", "quantity": "200", "unit": "מ״ל" },
+        { "name": "בצל", "quantity": "2", "unit": "יח'" },
+        { "name": "רוזמרין ותימין", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "שרפו חלקי עוף בשמן זית",
+        "הוציאו ובאותו סיר טגנו בצל",
+        "הוסיפו פטריות ובשלו 5 דקות",
+        "הוסיפו יין והתאיידו",
+        "הוסיפו עגבניות ועשבי תיבול",
+        "החזירו עוף, כסו ובשלו 40 דקות",
+        "הגישו עם פולנטה או לחם"
+      ],
+      "tags": ["עוף", "עגבניות", "כפרי", "מסורתי"]
+    },
+    {
+      "id": "vitello-tonnato",
+      "title": "ויטלו טונטו",
+      "originalName": "Vitello Tonnato",
+      "description": "עגל קר עם רוטב טונה קרמי",
+      "category": "מנות עיקריות",
+      "image": "images/Vitello_Tonnato.jpg",
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "רוסטביף עגל", "quantity": "800", "unit": "גרם" },
+        { "name": "טונה משומרת", "quantity": "200", "unit": "גרם" },
+        { "name": "אנשובי", "quantity": "4", "unit": "פילה" },
+        { "name": "קפרים", "quantity": "3", "unit": "כפות" },
+        { "name": "מיונז", "quantity": "200", "unit": "גרם" },
+        { "name": "יין לבן", "quantity": "200", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "בשלו עגל ביין לבן, מרק וירקות שעה",
+        "צננו ופרסו דק מאוד",
+        "הכינו רוטב: טחנו טונה, אנשובי, קפרים ומיונז",
+        "דללו במעט ממי הבישול",
+        "ערכו פרוסות עגל על מגש",
+        "כסו ברוטב טונה",
+        "צננו 3 שעות לפני ההגשה"
+      ],
+      "tags": ["קר", "עגל", "טונה", "קיץ"]
+    },
+    {
+      "id": "melanzane-parmigiana",
+      "title": "מלנזנה אלה פרמג'אנה",
+      "originalName": "Melanzane alla Parmigiana",
+      "description": "חצילים מטוגנים בשכבות עם רוטב עגבניות, מוצרלה ופרמזן",
+      "category": "מנות עיקריות",
+      "image": "images/Melanzane_Parmigiana.jpg",
+      "prepTime": 40,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חצילים", "quantity": "3", "unit": "יח'" },
+        { "name": "רוטב עגבניות", "quantity": "600", "unit": "גרם" },
+        { "name": "מוצרלה", "quantity": "400", "unit": "גרם" },
+        { "name": "פרמזן", "quantity": "150", "unit": "גרם" },
+        { "name": "בזיליקום", "quantity": "1", "unit": "חופן" },
+        { "name": "שמן לטיגון", "quantity": "לפי", "unit": "צורך" }
+      ],
+      "instructions": [
+        "פרסו חצילים, המליחו והניחו 30 דקות",
+        "שטפו וייבשו",
+        "טגנו בשמן עמוק עד זהוב",
+        "בתבנית: רוטב, שכבת חצילים, מוצרלה, פרמזן, בזיליקום",
+        "חזרו על השכבות",
+        "אפו ב-180 מעלות 40 דקות",
+        "הניחו למנוחה 10 דקות לפני ההגשה"
+      ],
+      "tags": ["חצילים", "צמחוני", "גבינה", "שכבות"]
+    },
+    {
+      "id": "arancini",
+      "title": "ארנצ'יני",
+      "originalName": "Arancini Siciliani",
+      "description": "כדורי אורז סיציליאניים ממולאים ומטוגנים",
+      "category": "מנות עיקריות",
+      "image": "images/Arancini.jpg",
+      "prepTime": 45,
+      "cookTime": 30,
+      "servings": 12,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "אורז ארבוריו", "quantity": "400", "unit": "גרם" },
+        { "name": "בשר טחון", "quantity": "300", "unit": "גרם" },
+        { "name": "אפונה", "quantity": "100", "unit": "גרם" },
+        { "name": "רוטב עגבניות", "quantity": "200", "unit": "גרם" },
+        { "name": "מוצרלה", "quantity": "150", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "3", "unit": "יח'" },
+        { "name": "פירורי לחם", "quantity": "200", "unit": "גרם" }
+      ],
+      "instructions": [
+        "בשלו אורז עם מרק וזעפרן",
+        "צננו וערבבו עם ביצה ופרמזן",
+        "הכינו מילוי: בשר, אפונה ורוטב עגבניות",
+        "עצבו כדורי אורז עם מילוי ומוצרלה במרכז",
+        "טבלו בביצה ופירורי לחם",
+        "טגנו בשמן עמוק עד זהוב",
+        "הגישו חם"
+      ],
+      "tags": ["סיציליאני", "אורז", "מטוגן", "מילוי"]
+    },
+    {
+      "id": "pomodori-ripieni",
+      "title": "פומודורי ריפיני",
+      "originalName": "Pomodori Ripieni",
+      "description": "עגבניות ממולאות באורז, בזיליקום ופרמזן",
+      "category": "מנות עיקריות",
+      "image": "images/Pomodori_Ripieni.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "עגבניות גדולות", "quantity": "6", "unit": "יח'" },
+        { "name": "אורז", "quantity": "150", "unit": "גרם" },
+        { "name": "בזיליקום", "quantity": "1", "unit": "חופן" },
+        { "name": "פרמזן", "quantity": "80", "unit": "גרם" },
+        { "name": "שום", "quantity": "2", "unit": "שיניים" },
+        { "name": "שמן זית", "quantity": "80", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "חתכו כיפה מהעגבניות ורוקנו פנימה",
+        "בשלו אורז למחצה",
+        "ערבבו עם בזיליקום, פרמזן, שום ושמן זית",
+        "מלאו עגבניות",
+        "החזירו כיפות",
+        "אפו ב-180 מעלות 35-40 דקות",
+        "הגישו חם או קר"
+      ],
+      "tags": ["עגבניות", "אורז", "צמחוני", "קיץ"]
+    },
+    {
+      "id": "polpette-al-sugo",
+      "title": "פולפטה אל סוגו",
+      "originalName": "Polpette al Sugo",
+      "description": "קציצות בשר איטלקיות ברוטב עגבניות",
+      "category": "מנות עיקריות",
+      "image": "images/Polpette_al_Sugo.jpg",
+      "prepTime": 25,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בשר טחון", "quantity": "600", "unit": "גרם" },
+        { "name": "פירורי לחם", "quantity": "100", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "2", "unit": "יח'" },
+        { "name": "פרמזן", "quantity": "80", "unit": "גרם" },
+        { "name": "רוטב עגבניות", "quantity": "600", "unit": "גרם" },
+        { "name": "שום ופטרוזיליה", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "ערבבו בשר, פירורים, ביצה, פרמזן, שום ופטרוזיליה",
+        "עצבו כדורים",
+        "שרפו במחבת עד זהוב מכל הצדדים",
+        "הכינו רוטב עגבניות בסיר",
+        "הוסיפו קציצות לרוטב",
+        "בשלו 25 דקות על אש נמוכה",
+        "הגישו עם פסטה או לחם"
+      ],
+      "tags": ["קציצות", "בשר", "רוטב עגבניות", "משפחתי"]
+    },
+    {
+      "id": "bistecca-fiorentina",
+      "title": "ביסטקה אלה פיורנטינה",
+      "originalName": "Bistecca alla Fiorentina",
+      "description": "סטייק T-bone פיורנטיני ענק על הגריל",
+      "category": "מנות עיקריות",
+      "image": "images/Bistecca_Fiorentina.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "סטייק T-bone", "quantity": "1.2", "unit": "ק״ג" },
+        { "name": "שמן זית", "quantity": "60", "unit": "מ״ל" },
+        { "name": "מלח גס", "quantity": "לפי", "unit": "טעם" },
+        { "name": "פלפל שחור", "quantity": "לפי", "unit": "טעם" },
+        { "name": "לימון", "quantity": "1", "unit": "יח'" }
+      ],
+      "instructions": [
+        "הוציאו בשר מהמקרר שעה לפני",
+        "חממו גריל או מחבת ברזל מאוד חם",
+        "צבעו בשר בשמן זית",
+        "צלו 5-7 דקות מכל צד (medium-rare)",
+        "המליחו והפלפלו בעודו חם",
+        "הניחו למנוחה 5 דקות",
+        "הגישו עם שמן זית ולימון"
+      ],
+      "tags": ["בשר", "גריל", "פיורנטינה", "פשוט"]
     }
   ]
 }
