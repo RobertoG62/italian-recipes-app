@@ -1,0 +1,1531 @@
+{
+  "recipes": [
+    {
+      "id": "spaghetti-carbonara",
+      "title": "Spaghetti Carbonara",
+      "originalName": "Spaghetti alla Carbonara",
+      "description": "Classic Roman pasta dish with creamy egg sauce, pecorino cheese and guanciale bacon",
+      "category": "Pasta",
+      "image": "images/Spaghetti_Carbonara.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "spaghetti", "quantity": "400", "unit": "g" },
+        { "name": "guanciale or bacon", "quantity": "150", "unit": "g" },
+        { "name": "egg yolks", "quantity": "4", "unit": "pcs" },
+        { "name": "grated pecorino romano cheese", "quantity": "100", "unit": "g" },
+        { "name": "freshly ground black pepper", "quantity": "1", "unit": "tsp" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Cook the spaghetti in boiling salted water according to package directions until al dente",
+        "Meanwhile, cut the guanciale into small cubes and fry in a large pot until the fat has melted and the meat is crispy",
+        "In a separate bowl, whisk together the egg yolks, pecorino and black pepper",
+        "Drain the pasta and reserve a cup of cooking water. Add the pasta to the pot with the guanciale",
+        "Remove from heat and add the egg mixture while stirring quickly. Add a little cooking water if needed",
+        "Mix well until a creamy sauce forms. Serve immediately with more cheese and black pepper"
+      ],
+      "tags": ["classic", "Roman", "eggs", "bacon"]
+    },
+    {
+      "id": "pasta-al-pomodoro",
+      "title": "Pasta al Pomodoro",
+      "originalName": "Pasta al Pomodoro",
+      "description": "Simple and perfect pasta with fresh tomato sauce, garlic and basil",
+      "category": "Pasta",
+      "image": "images/Pasta_Pomodoro.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "spaghetti or penne", "quantity": "400", "unit": "g" },
+        { "name": "cherry tomatoes", "quantity": "500", "unit": "g" },
+        { "name": "garlic", "quantity": "4", "unit": "cloves" },
+        { "name": "olive oil", "quantity": "60", "unit": "ml" },
+        { "name": "fresh basil", "quantity": "1", "unit": "handful" },
+        { "name": "salt and pepper", "quantity": "to", "unit": "taste" },
+        { "name": "parmesan cheese", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Cut the tomatoes in half and slice the garlic thinly",
+        "Heat olive oil in a large pan and fry the garlic until golden but not burned",
+        "Add the tomatoes, salt and pepper, and cook over medium heat for 15 minutes until the tomatoes have softened",
+        "Meanwhile, cook the pasta in boiling salted water until al dente",
+        "Drain the pasta and reserve a cup of cooking water",
+        "Add the pasta to the tomato sauce with torn basil leaves. Mix and add a little cooking water if needed",
+        "Serve with grated parmesan and fresh basil"
+      ],
+      "tags": ["simple", "vegan", "tomatoes", "basil"]
+    },
+    {
+      "id": "penne-arrabbiata",
+      "title": "Penne Arrabbiata",
+      "originalName": "Penne all'Arrabbiata",
+      "description": "Spicy pasta in tomato sauce with garlic, chili pepper and herbs",
+      "category": "Pasta",
+      "image": "images/Penne_Arrabbiata.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "penne", "quantity": "400", "unit": "g" },
+        { "name": "canned peeled tomatoes", "quantity": "400", "unit": "g" },
+        { "name": "garlic", "quantity": "4", "unit": "cloves" },
+        { "name": "red chili pepper", "quantity": "2", "unit": "pcs" },
+        { "name": "olive oil", "quantity": "60", "unit": "ml" },
+        { "name": "fresh parsley", "quantity": "1/2", "unit": "cup" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Finely chop the garlic and chili pepper (remove seeds for less heat)",
+        "Heat olive oil in a large pan and fry the garlic and chili for 2 minutes",
+        "Add the peeled tomatoes (crushed with a fork), salt, and cook for 15 minutes over medium heat",
+        "Meanwhile, cook the penne in boiling salted water until al dente",
+        "Drain the pasta and add to the sauce. Mix well",
+        "Add chopped parsley and serve immediately"
+      ],
+      "tags": ["spicy", "Roman", "chili", "quick"]
+    },
+    {
+      "id": "fettuccine-alfredo",
+      "title": "Fettuccine Alfredo",
+      "originalName": "Fettuccine Alfredo",
+      "description": "Classic pasta with rich cream sauce made from butter and parmesan",
+      "category": "Pasta",
+      "image": "images/Fettuccine_Alfredo.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "fettuccine", "quantity": "400", "unit": "g" },
+        { "name": "butter", "quantity": "100", "unit": "g" },
+        { "name": "heavy cream", "quantity": "250", "unit": "ml" },
+        { "name": "grated parmesan cheese", "quantity": "150", "unit": "g" },
+        { "name": "nutmeg", "quantity": "1/4", "unit": "tsp" },
+        { "name": "salt and pepper", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Cook the fettuccine in boiling salted water until al dente",
+        "Meanwhile, melt butter in a large pan over medium heat",
+        "Add cream and bring to a gentle boil",
+        "Drain the pasta and reserve a cup of cooking water",
+        "Add the pasta to the pan with the sauce. Remove from heat",
+        "Add parmesan and season with nutmeg, salt and pepper. Mix until the sauce is creamy",
+        "Add a little cooking water if the sauce is too thick. Serve immediately"
+      ],
+      "tags": ["creamy", "rich", "simple", "elegant"]
+    },
+    {
+      "id": "cacio-e-pepe",
+      "title": "Cacio e Pepe",
+      "originalName": "Cacio e Pepe",
+      "description": "Minimalist Roman pasta with pecorino cheese and black pepper",
+      "category": "Pasta",
+      "image": "images/Cacio_e_Pepe.jpg",
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "spaghetti or tonnarelli", "quantity": "400", "unit": "g" },
+        { "name": "grated pecorino romano cheese", "quantity": "200", "unit": "g" },
+        { "name": "freshly ground black pepper", "quantity": "2", "unit": "tsp" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Cook the pasta in boiling salted water until al dente",
+        "Toast freshly ground black pepper in a dry pan for one minute",
+        "Reserve 2 cups of pasta cooking water before draining",
+        "Add a cup of cooking water to the pepper in the pan",
+        "Drain the pasta and add to the pan",
+        "Add grated pecorino and start mixing quickly",
+        "Gradually add more cooking water while stirring until a creamy sauce forms",
+        "Serve immediately with more pecorino and pepper"
+      ],
+      "tags": ["simple", "Roman", "traditional", "cheese"]
+    },
+    {
+      "id": "pasta-alla-norma",
+      "title": "Pasta alla Norma",
+      "originalName": "Pasta alla Norma",
+      "description": "Sicilian dish with fried eggplant, tomatoes and salted ricotta",
+      "category": "Pasta",
+      "image": "images/Pasta_alla_Norma.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "rigatoni or penne", "quantity": "400", "unit": "g" },
+        { "name": "eggplants", "quantity": "2", "unit": "pcs" },
+        { "name": "peeled tomatoes", "quantity": "500", "unit": "g" },
+        { "name": "garlic", "quantity": "3", "unit": "cloves" },
+        { "name": "fresh basil", "quantity": "1", "unit": "handful" },
+        { "name": "ricotta salata (or feta)", "quantity": "100", "unit": "g" },
+        { "name": "olive oil", "quantity": "100", "unit": "ml" }
+      ],
+      "instructions": [
+        "Cut eggplants into cubes, salt them and let sit for 20 minutes. Rinse and dry",
+        "Fry eggplant cubes in olive oil until golden. Drain on paper towel",
+        "In the same oil, fry chopped garlic until golden",
+        "Add crushed tomatoes and cook for 15 minutes. Add basil",
+        "Cook the pasta until al dente",
+        "Mix pasta with tomato sauce and fried eggplant",
+        "Serve with grated or crumbled ricotta salata and basil leaves"
+      ],
+      "tags": ["Sicilian", "eggplant", "vegetarian", "traditional"]
+    },
+    {
+      "id": "pesto-genovese",
+      "title": "Pasta al Pesto Genovese",
+      "originalName": "Pasta al Pesto Genovese",
+      "description": "Pasta with fresh pesto made from basil, pine nuts and parmesan",
+      "category": "Pasta",
+      "image": "images/Pesto_Genovese.jpg",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "trofie or linguine", "quantity": "400", "unit": "g" },
+        { "name": "fresh basil", "quantity": "2", "unit": "cups" },
+        { "name": "pine nuts", "quantity": "50", "unit": "g" },
+        { "name": "garlic", "quantity": "2", "unit": "cloves" },
+        { "name": "grated parmesan", "quantity": "80", "unit": "g" },
+        { "name": "olive oil", "quantity": "120", "unit": "ml" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Grind basil, pine nuts and garlic in a food processor",
+        "Add parmesan and olive oil gradually while blending until a smooth paste forms",
+        "Season with salt to taste",
+        "Cook the pasta in boiling salted water until al dente",
+        "Reserve a cup of cooking water. Drain the pasta",
+        "Mix pasta with pesto. Add a little cooking water to achieve a creamy texture",
+        "Serve with additional parmesan and fresh basil leaves"
+      ],
+      "tags": ["Genoa", "basil", "nuts", "fresh"]
+    },
+    {
+      "id": "aglio-e-olio",
+      "title": "Spaghetti Aglio e Olio",
+      "originalName": "Spaghetti Aglio e Olio",
+      "description": "Simple and perfect spaghetti with garlic, olive oil and chili pepper",
+      "category": "Pasta",
+      "image": "images/Aglio_e_Olio.jpg",
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "spaghetti", "quantity": "400", "unit": "g" },
+        { "name": "garlic", "quantity": "6", "unit": "cloves" },
+        { "name": "quality olive oil", "quantity": "100", "unit": "ml" },
+        { "name": "dried chili flakes", "quantity": "1", "unit": "tsp" },
+        { "name": "fresh parsley", "quantity": "1/2", "unit": "cup" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Cook spaghetti in boiling salted water until al dente",
+        "Meanwhile, slice garlic very thinly",
+        "Heat olive oil in a large pan, add garlic and chili flakes",
+        "Fry over low heat until garlic is light golden (don't burn!)",
+        "Reserve a cup of pasta cooking water",
+        "Drain the pasta and add to the pan with garlic",
+        "Add a little cooking water and chopped parsley. Mix well",
+        "Serve immediately with optional parmesan"
+      ],
+      "tags": ["simple", "quick", "garlic", "minimalist"]
+    },
+    {
+      "id": "pasta-alla-gricia",
+      "title": "Pasta alla Gricia",
+      "originalName": "Pasta alla Gricia",
+      "description": "Carbonara without eggs - guanciale, pecorino and black pepper",
+      "category": "Pasta",
+      "image": "images/Pasta_alla_Gricia.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "rigatoni", "quantity": "400", "unit": "g" },
+        { "name": "guanciale", "quantity": "200", "unit": "g" },
+        { "name": "grated pecorino romano", "quantity": "150", "unit": "g" },
+        { "name": "freshly ground black pepper", "quantity": "1", "unit": "tsp" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Cut guanciale into cubes and fry until crispy and fat has melted",
+        "Cook the pasta in boiling salted water until al dente",
+        "Reserve 2 cups of cooking water",
+        "Drain the pasta and add to the guanciale with a cup of cooking water",
+        "Add pecorino and black pepper, mix quickly",
+        "Add more cooking water until you get a creamy sauce",
+        "Serve immediately with more pecorino and pepper"
+      ],
+      "tags": ["Roman", "guanciale", "simple", "traditional"]
+    },
+    {
+      "id": "pasta-e-fagioli",
+      "title": "Pasta e Fagioli",
+      "originalName": "Pasta e Fagioli",
+      "description": "Rich Italian soup with pasta and beans",
+      "category": "Pasta",
+      "image": "images/Pasta_e_Fagioli.jpg",
+      "prepTime": 15,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "ditalini or small pasta", "quantity": "200", "unit": "g" },
+        { "name": "canned cannellini beans", "quantity": "400", "unit": "g" },
+        { "name": "peeled tomatoes", "quantity": "400", "unit": "g" },
+        { "name": "onion, carrot and celery", "quantity": "1/2", "unit": "cup each" },
+        { "name": "garlic", "quantity": "3", "unit": "cloves" },
+        { "name": "vegetable broth", "quantity": "1", "unit": "liter" },
+        { "name": "rosemary", "quantity": "2", "unit": "sprigs" }
+      ],
+      "instructions": [
+        "Finely chop onion, carrot and celery",
+        "Fry vegetables in olive oil until soft",
+        "Add chopped garlic and fry for another minute",
+        "Add tomatoes, beans, broth and rosemary",
+        "Bring to a boil, reduce heat and cook for 25 minutes",
+        "Blend part of the soup (about 1/3) to create a thicker texture",
+        "Add pasta and cook until al dente",
+        "Serve with parmesan and olive oil"
+      ],
+      "tags": ["soup", "beans", "winter", "hearty"]
+    },
+    {
+      "id": "pasta-puttanesca",
+      "title": "Pasta alla Puttanesca",
+      "originalName": "Pasta alla Puttanesca",
+      "description": "Pasta with rich tomato sauce, olives, capers and anchovies",
+      "category": "Pasta",
+      "image": "images/Pasta_Puttanesca.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "spaghetti", "quantity": "400", "unit": "g" },
+        { "name": "peeled tomatoes", "quantity": "500", "unit": "g" },
+        { "name": "black olives", "quantity": "100", "unit": "g" },
+        { "name": "capers", "quantity": "3", "unit": "tbsp" },
+        { "name": "anchovies", "quantity": "6", "unit": "fillets" },
+        { "name": "garlic", "quantity": "3", "unit": "cloves" },
+        { "name": "chili pepper", "quantity": "1", "unit": "pc" }
+      ],
+      "instructions": [
+        "Cut olives in half and coarsely chop capers",
+        "Heat olive oil and fry chopped garlic and anchovies until anchovies dissolve",
+        "Add chili, crushed tomatoes, olives and capers",
+        "Cook for 15 minutes over medium heat",
+        "Meanwhile, cook spaghetti until al dente",
+        "Drain and add to the sauce",
+        "Mix well and serve with parsley"
+      ],
+      "tags": ["olives", "anchovies", "salty", "Neapolitan"]
+    },
+    {
+      "id": "tagliatelle-al-ragu",
+      "title": "Tagliatelle al Ragù",
+      "originalName": "Tagliatelle al Ragù",
+      "description": "Homemade pasta with authentic Bolognese meat sauce",
+      "category": "Pasta",
+      "image": "images/Tagliatelle_al_Ragu.jpg",
+      "prepTime": 20,
+      "cookTime": 180,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "fresh tagliatelle", "quantity": "500", "unit": "g" },
+        { "name": "ground meat (beef+pork)", "quantity": "500", "unit": "g" },
+        { "name": "tomato paste", "quantity": "200", "unit": "g" },
+        { "name": "red wine", "quantity": "200", "unit": "ml" },
+        { "name": "milk", "quantity": "200", "unit": "ml" },
+        { "name": "onion, carrot, celery", "quantity": "1/2", "unit": "cup each" },
+        { "name": "beef broth", "quantity": "500", "unit": "ml" }
+      ],
+      "instructions": [
+        "Finely chop onion, carrot and celery",
+        "Fry vegetables in butter until soft",
+        "Add ground meat and cook until browned",
+        "Add red wine and let evaporate",
+        "Add tomato paste, broth and milk",
+        "Cook over low heat for 3 hours, stirring occasionally",
+        "Cook fresh tagliatelle for 3-4 minutes",
+        "Mix with the sauce and serve with parmesan"
+      ],
+      "tags": ["Bolognese", "meat", "traditional", "slow cooking"]
+    },
+    {
+      "id": "pasta-con-le-sarde",
+      "title": "Pasta con le Sarde",
+      "originalName": "Pasta con le Sarde",
+      "description": "Sicilian dish with sardines, wild fennel and raisins",
+      "category": "Pasta",
+      "image": "images/Pasta_con_le_Sarde.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "bucatini", "quantity": "400", "unit": "g" },
+        { "name": "fresh sardines", "quantity": "300", "unit": "g" },
+        { "name": "wild fennel", "quantity": "200", "unit": "g" },
+        { "name": "raisins", "quantity": "50", "unit": "g" },
+        { "name": "pine nuts", "quantity": "50", "unit": "g" },
+        { "name": "anchovies", "quantity": "4", "unit": "fillets" },
+        { "name": "saffron", "quantity": "1/2", "unit": "tsp" }
+      ],
+      "instructions": [
+        "Cook fennel until tender. Reserve the cooking water",
+        "Fry anchovies in olive oil until they dissolve",
+        "Add sardines and cook for 5 minutes",
+        "Add fennel, raisins, nuts and saffron",
+        "Cook pasta in the fennel water until al dente",
+        "Mix with the sauce",
+        "Serve with toasted breadcrumbs"
+      ],
+      "tags": ["Sicilian", "fish", "saffron", "special"]
+    },
+    {
+      "id": "orecchiette-cime-di-rapa",
+      "title": "Orecchiette con Cime di Rapa",
+      "originalName": "Orecchiette con Cime di Rapa",
+      "description": "Apulian pasta with turnip greens, garlic and anchovies",
+      "category": "Pasta",
+      "image": "images/Orecchiette_Cime_di_Rapa.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "orecchiette", "quantity": "400", "unit": "g" },
+        { "name": "turnip greens (or broccoli)", "quantity": "500", "unit": "g" },
+        { "name": "garlic", "quantity": "4", "unit": "cloves" },
+        { "name": "anchovies", "quantity": "6", "unit": "fillets" },
+        { "name": "chili pepper", "quantity": "1", "unit": "pc" },
+        { "name": "olive oil", "quantity": "80", "unit": "ml" }
+      ],
+      "instructions": [
+        "Clean turnip greens and cut coarsely",
+        "Boil turnip greens in water for 5 minutes",
+        "Add pasta to the same water and cook together",
+        "Fry garlic, anchovies and chili in olive oil",
+        "Drain pasta and greens, reserve water",
+        "Mix with the garlic and anchovy mixture",
+        "Add a little cooking water and serve"
+      ],
+      "tags": ["Apulian", "vegetables", "anchovies", "traditional"]
+    },
+    {
+      "id": "pasta-amatriciana",
+      "title": "Pasta all'Amatriciana",
+      "originalName": "Pasta all'Amatriciana",
+      "description": "Roman pasta with guanciale, tomatoes and pecorino",
+      "category": "Pasta",
+      "image": "images/Pasta_Amatriciana.jpg",
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "bucatini or spaghetti", "quantity": "400", "unit": "g" },
+        { "name": "guanciale", "quantity": "150", "unit": "g" },
+        { "name": "peeled tomatoes", "quantity": "400", "unit": "g" },
+        { "name": "pecorino romano", "quantity": "100", "unit": "g" },
+        { "name": "white wine", "quantity": "50", "unit": "ml" },
+        { "name": "chili pepper", "quantity": "1", "unit": "pc" }
+      ],
+      "instructions": [
+        "Cut guanciale into strips and fry until crispy",
+        "Add chopped chili and white wine",
+        "Add crushed tomatoes and cook for 15 minutes",
+        "Cook pasta until al dente",
+        "Mix with the sauce",
+        "Serve with grated pecorino"
+      ],
+      "tags": ["Roman", "guanciale", "tomatoes", "traditional"]
+    },
+    {
+      "id": "pizza-margherita",
+      "title": "Pizza Margherita",
+      "originalName": "Pizza Margherita",
+      "description": "The classic Neapolitan pizza - tomato sauce, mozzarella and fresh basil",
+      "category": "Pizza",
+      "image": "images/Pizza_Margherita.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "bread flour", "quantity": "500", "unit": "g" },
+        { "name": "lukewarm water", "quantity": "300", "unit": "ml" },
+        { "name": "dry yeast", "quantity": "7", "unit": "g" },
+        { "name": "salt", "quantity": "10", "unit": "g" },
+        { "name": "olive oil", "quantity": "30", "unit": "ml" },
+        { "name": "tomato puree", "quantity": "400", "unit": "g" },
+        { "name": "mozzarella fior di latte", "quantity": "400", "unit": "g" },
+        { "name": "fresh basil", "quantity": "1", "unit": "handful" }
+      ],
+      "instructions": [
+        "Mix flour, yeast and salt. Add water and olive oil and knead for 10 minutes until smooth dough forms",
+        "Cover and let rise for two hours until the dough has doubled in volume",
+        "Divide into 4 balls and let rest for 30 minutes",
+        "Preheat oven to 250°C (or highest) with a baking stone if available",
+        "Roll each ball into a thin circle. Spread tomato puree, tear mozzarella and distribute on top",
+        "Bake for 10-12 minutes until edges are golden and cheese is bubbling",
+        "Add fresh basil leaves and drizzle olive oil before serving"
+      ],
+      "tags": ["Neapolitan", "classic", "mozzarella", "dough"]
+    },
+    {
+      "id": "pizza-quattro-formaggi",
+      "title": "Pizza Quattro Formaggi",
+      "originalName": "Pizza Quattro Formaggi",
+      "description": "Indulgent pizza with four types of Italian cheeses",
+      "category": "Pizza",
+      "image": "images/Pizza_Quattro_Formaggi.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "pizza dough (as in Margherita)", "quantity": "1", "unit": "portion" },
+        { "name": "mozzarella", "quantity": "150", "unit": "g" },
+        { "name": "gorgonzola", "quantity": "100", "unit": "g" },
+        { "name": "fontina", "quantity": "100", "unit": "g" },
+        { "name": "parmesan", "quantity": "50", "unit": "g" },
+        { "name": "olive oil", "quantity": "to", "unit": "taste" },
+        { "name": "black pepper", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Prepare pizza dough according to the Margherita recipe",
+        "Preheat oven to 250°C with baking stone",
+        "Roll the dough into a thin circle. Brush with a little olive oil",
+        "Cut gorgonzola and fontina into cubes, grate mozzarella and parmesan",
+        "Distribute the four types of cheese evenly on the dough",
+        "Bake for 10-12 minutes until cheeses have melted and dough is crispy and golden",
+        "Sprinkle freshly ground black pepper and drizzle olive oil before serving"
+      ],
+      "tags": ["cheese", "rich", "creamy", "simple"]
+    },
+    {
+      "id": "pizza-napoletana",
+      "title": "Pizza Napoletana",
+      "originalName": "Pizza Napoletana",
+      "description": "Neapolitan pizza with anchovies, capers and olives",
+      "category": "Pizza",
+      "image": "images/Pizza_Napoletana.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "portion" },
+        { "name": "tomato puree", "quantity": "300", "unit": "g" },
+        { "name": "mozzarella", "quantity": "200", "unit": "g" },
+        { "name": "anchovies", "quantity": "8", "unit": "fillets" },
+        { "name": "capers", "quantity": "3", "unit": "tbsp" },
+        { "name": "black olives", "quantity": "50", "unit": "g" },
+        { "name": "dried oregano", "quantity": "1", "unit": "tsp" }
+      ],
+      "instructions": [
+        "Prepare and roll pizza dough",
+        "Spread tomato puree on the dough",
+        "Add torn mozzarella",
+        "Distribute anchovies, capers and olives",
+        "Sprinkle oregano",
+        "Bake in hot oven for 10-12 minutes",
+        "Serve with olive oil"
+      ],
+      "tags": ["anchovies", "salty", "Naples", "traditional"]
+    },
+    {
+      "id": "pizza-marinara",
+      "title": "Pizza Marinara",
+      "originalName": "Pizza Marinara",
+      "description": "Simple Neapolitan pizza with only tomatoes, garlic and oregano",
+      "category": "Pizza",
+      "image": "images/Pizza_Marinara.jpg",
+      "prepTime": 120,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "portion" },
+        { "name": "tomato puree", "quantity": "400", "unit": "g" },
+        { "name": "garlic", "quantity": "4", "unit": "cloves" },
+        { "name": "dried oregano", "quantity": "2", "unit": "tsp" },
+        { "name": "olive oil", "quantity": "60", "unit": "ml" },
+        { "name": "salt", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Prepare and roll dough",
+        "Spread tomato puree",
+        "Sprinkle thinly sliced garlic",
+        "Add oregano and salt",
+        "Drizzle olive oil",
+        "Bake for 8-10 minutes in very hot oven",
+        "Serve immediately"
+      ],
+      "tags": ["vegan", "simple", "garlic", "classic"]
+    },
+    {
+      "id": "pizza-capricciosa",
+      "title": "Pizza Capricciosa",
+      "originalName": "Pizza Capricciosa",
+      "description": "Rich pizza with mushrooms, artichoke, olives and prosciutto",
+      "category": "Pizza",
+      "image": "images/Pizza_Capricciosa.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "portion" },
+        { "name": "tomato puree", "quantity": "300", "unit": "g" },
+        { "name": "mozzarella", "quantity": "250", "unit": "g" },
+        { "name": "mushrooms", "quantity": "100", "unit": "g" },
+        { "name": "artichoke hearts", "quantity": "100", "unit": "g" },
+        { "name": "prosciutto", "quantity": "80", "unit": "g" },
+        { "name": "black olives", "quantity": "50", "unit": "g" }
+      ],
+      "instructions": [
+        "Roll dough and spread tomato puree",
+        "Add torn mozzarella",
+        "Distribute sliced mushrooms, cut artichoke",
+        "Add olives",
+        "Bake for 10 minutes",
+        "Add prosciutto in the last minutes",
+        "Serve hot"
+      ],
+      "tags": ["rich", "mushrooms", "artichoke", "prosciutto"]
+    },
+    {
+      "id": "pizza-diavola",
+      "title": "Pizza Diavola",
+      "originalName": "Pizza Diavola",
+      "description": "Spicy pizza with spicy salami and chili pepper",
+      "category": "Pizza",
+      "image": "images/Pizza_Diavola.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "portion" },
+        { "name": "tomato puree", "quantity": "300", "unit": "g" },
+        { "name": "mozzarella", "quantity": "250", "unit": "g" },
+        { "name": "spicy salami", "quantity": "100", "unit": "g" },
+        { "name": "fresh chili pepper", "quantity": "2", "unit": "pcs" },
+        { "name": "oregano", "quantity": "1", "unit": "tsp" }
+      ],
+      "instructions": [
+        "Roll dough and spread puree",
+        "Add mozzarella",
+        "Distribute spicy salami",
+        "Sprinkle sliced chili pepper",
+        "Add oregano",
+        "Bake for 10-12 minutes",
+        "Serve hot with optional chili oil"
+      ],
+      "tags": ["spicy", "salami", "chili", "spicy"]
+    },
+    {
+      "id": "pizza-prosciutto-funghi",
+      "title": "Pizza Prosciutto e Funghi",
+      "originalName": "Pizza Prosciutto e Funghi",
+      "description": "Classic pizza with prosciutto cotto and mushrooms",
+      "category": "Pizza",
+      "image": "images/Pizza_Prosciutto_Funghi.jpg",
+      "prepTime": 120,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "portion" },
+        { "name": "tomato puree", "quantity": "300", "unit": "g" },
+        { "name": "mozzarella", "quantity": "250", "unit": "g" },
+        { "name": "prosciutto cotto", "quantity": "100", "unit": "g" },
+        { "name": "fresh mushrooms", "quantity": "150", "unit": "g" }
+      ],
+      "instructions": [
+        "Slice mushrooms thinly",
+        "Roll dough and spread puree",
+        "Add mozzarella and mushrooms",
+        "Bake for 10 minutes",
+        "Add prosciutto cotto",
+        "Bake for another 2 minutes",
+        "Serve immediately"
+      ],
+      "tags": ["prosciutto", "mushrooms", "classic", "simple"]
+    },
+    {
+      "id": "pizza-bianca",
+      "title": "Pizza Bianca",
+      "originalName": "Pizza Bianca",
+      "description": "White pizza with rosemary and olive oil without tomato sauce",
+      "category": "Pizza",
+      "image": "images/Pizza_Bianca.jpg",
+      "prepTime": 120,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "portion" },
+        { "name": "mozzarella", "quantity": "200", "unit": "g" },
+        { "name": "ricotta", "quantity": "150", "unit": "g" },
+        { "name": "parmesan", "quantity": "50", "unit": "g" },
+        { "name": "fresh rosemary", "quantity": "2", "unit": "sprigs" },
+        { "name": "garlic", "quantity": "2", "unit": "cloves" },
+        { "name": "olive oil", "quantity": "60", "unit": "ml" }
+      ],
+      "instructions": [
+        "Roll dough and brush with olive oil",
+        "Sprinkle thinly sliced garlic",
+        "Distribute ricotta, mozzarella and parmesan",
+        "Sprinkle rosemary leaves",
+        "Drizzle olive oil",
+        "Bake for 10 minutes",
+        "Serve with black pepper"
+      ],
+      "tags": ["white", "cheese", "rosemary", "simple"]
+    },
+    {
+      "id": "risotto-ai-funghi",
+      "title": "Risotto ai Funghi",
+      "originalName": "Risotto ai Funghi",
+      "description": "Creamy risotto with mixed mushrooms, white wine and parmesan",
+      "category": "Risotto",
+      "image": "images/Risotto_Funghi.jpg",
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "arborio rice", "quantity": "320", "unit": "g" },
+        { "name": "mixed mushrooms", "quantity": "400", "unit": "g" },
+        { "name": "vegetable or chicken broth", "quantity": "1.5", "unit": "liters" },
+        { "name": "dry white wine", "quantity": "150", "unit": "ml" },
+        { "name": "onion", "quantity": "1", "unit": "pc" },
+        { "name": "garlic", "quantity": "2", "unit": "cloves" },
+        { "name": "butter", "quantity": "60", "unit": "g" },
+        { "name": "parmesan cheese", "quantity": "80", "unit": "g" },
+        { "name": "parsley", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Slice the mushrooms and cook in butter over high heat until golden. Set aside",
+        "Finely chop onion and garlic. Heat the broth in a separate pot",
+        "In a large pan, sauté onion and garlic in butter until translucent",
+        "Add the rice and stir for 2 minutes until it starts to toast slightly",
+        "Add white wine and stir until completely absorbed",
+        "Start adding hot broth gradually, ladle by ladle, stirring constantly. Wait for each ladle to be absorbed before the next",
+        "After 18-20 minutes, when the rice is al dente, add the mushrooms, butter and parmesan. Stir until creamy",
+        "Serve immediately with parsley and additional parmesan"
+      ],
+      "tags": ["mushrooms", "creamy", "rich", "Italian"]
+    },
+    {
+      "id": "risotto-alla-milanese",
+      "title": "Risotto alla Milanese",
+      "originalName": "Risotto alla Milanese",
+      "description": "Yellow Milanese risotto with saffron and butter",
+      "category": "Risotto",
+      "image": "images/Risotto_Milanese.jpg",
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "arborio rice", "quantity": "320", "unit": "g" },
+        { "name": "beef broth", "quantity": "1.5", "unit": "liters" },
+        { "name": "saffron", "quantity": "1/2", "unit": "tsp" },
+        { "name": "white wine", "quantity": "150", "unit": "ml" },
+        { "name": "onion", "quantity": "1", "unit": "pc" },
+        { "name": "butter", "quantity": "80", "unit": "g" },
+        { "name": "parmesan", "quantity": "80", "unit": "g" }
+      ],
+      "instructions": [
+        "Heat broth in a separate pot",
+        "Sauté chopped onion in butter",
+        "Add rice and stir for 2 minutes",
+        "Add white wine",
+        "Add saffron soaked in a little hot broth",
+        "Add broth gradually while stirring for 18-20 minutes",
+        "Finish with butter and parmesan",
+        "Serve immediately"
+      ],
+      "tags": ["saffron", "Milanese", "yellow", "classic"]
+    },
+    {
+      "id": "risotto-nero-di-seppia",
+      "title": "Risotto al Nero di Seppia",
+      "originalName": "Risotto al Nero di Seppia",
+      "description": "Black risotto with squid ink and seafood",
+      "category": "Risotto",
+      "image": "images/Risotto_Nero_di_Seppia.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "arborio rice", "quantity": "320", "unit": "g" },
+        { "name": "squid with ink", "quantity": "400", "unit": "g" },
+        { "name": "fish broth", "quantity": "1.5", "unit": "liters" },
+        { "name": "white wine", "quantity": "150", "unit": "ml" },
+        { "name": "garlic", "quantity": "3", "unit": "cloves" },
+        { "name": "parsley", "quantity": "1/2", "unit": "cup" }
+      ],
+      "instructions": [
+        "Clean squid and save ink sacs",
+        "Cut squid into rings",
+        "Fry garlic in olive oil",
+        "Add squid and cook for 5 minutes",
+        "Add rice, wine, and ink",
+        "Add broth gradually for 20 minutes",
+        "Serve with parsley"
+      ],
+      "tags": ["seafood", "squid", "black", "special"]
+    },
+    {
+      "id": "risotto-frutti-di-mare",
+      "title": "Risotto ai Frutti di Mare",
+      "originalName": "Risotto ai Frutti di Mare",
+      "description": "Rich risotto with mixed seafood",
+      "category": "Risotto",
+      "image": "images/Risotto_Frutti_di_Mare.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "arborio rice", "quantity": "320", "unit": "g" },
+        { "name": "mixed seafood", "quantity": "500", "unit": "g" },
+        { "name": "fish broth", "quantity": "1.5", "unit": "liters" },
+        { "name": "white wine", "quantity": "150", "unit": "ml" },
+        { "name": "cherry tomatoes", "quantity": "200", "unit": "g" },
+        { "name": "garlic", "quantity": "3", "unit": "cloves" }
+      ],
+      "instructions": [
+        "Clean seafood",
+        "Fry garlic in olive oil",
+        "Add chopped tomatoes",
+        "Add rice and wine",
+        "Add broth gradually",
+        "In the last minutes add seafood",
+        "Serve with parsley"
+      ],
+      "tags": ["seafood", "tomatoes", "rich", "special"]
+    },
+    {
+      "id": "risotto-alla-parmigiana",
+      "title": "Risotto alla Parmigiana",
+      "originalName": "Risotto alla Parmigiana",
+      "description": "Simple and rich risotto with parmesan and butter",
+      "category": "Risotto",
+      "image": "images/Risotto_Parmigiana.jpg",
+      "prepTime": 5,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "arborio rice", "quantity": "320", "unit": "g" },
+        { "name": "vegetable broth", "quantity": "1.5", "unit": "liters" },
+        { "name": "white wine", "quantity": "150", "unit": "ml" },
+        { "name": "onion", "quantity": "1", "unit": "pc" },
+        { "name": "butter", "quantity": "100", "unit": "g" },
+        { "name": "parmesan", "quantity": "150", "unit": "g" }
+      ],
+      "instructions": [
+        "Heat broth in pot",
+        "Sauté chopped onion in butter",
+        "Add rice and fry for 2 minutes",
+        "Add wine and wait for absorption",
+        "Add broth gradually for 18-20 minutes",
+        "Finish with plenty of butter and parmesan",
+        "Serve immediately with black pepper"
+      ],
+      "tags": ["simple", "parmesan", "classic", "creamy"]
+    },
+    {
+      "id": "tiramisu",
+      "title": "Tiramisu",
+      "originalName": "Tiramisù",
+      "description": "Iconic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream",
+      "category": "Desserts",
+      "image": "images/Tiramisu.jpg",
+      "prepTime": 30,
+      "cookTime": 0,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "savoiardi cookies", "quantity": "300", "unit": "g" },
+        { "name": "mascarpone cheese", "quantity": "500", "unit": "g" },
+        { "name": "eggs", "quantity": "4", "unit": "pcs" },
+        { "name": "sugar", "quantity": "100", "unit": "g" },
+        { "name": "strong cold espresso", "quantity": "300", "unit": "ml" },
+        { "name": "marsala or amaretto", "quantity": "50", "unit": "ml" },
+        { "name": "cocoa powder", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Separate yolks and whites. Beat yolks with half the sugar until light",
+        "Add the mascarpone to the yolk mixture and mix until smooth",
+        "Whip egg whites with remaining sugar until stiff peaks form",
+        "Gently fold the whites into the mascarpone mixture",
+        "Mix coffee with marsala/amaretto. Dip each cookie for a second and arrange a layer in the pan",
+        "Spread half of the mascarpone cream over the cookies",
+        "Repeat the process: layer of cookies and more cream",
+        "Cover and refrigerate for at least 4 hours (preferably overnight). Dust with cocoa before serving"
+      ],
+      "tags": ["classic", "coffee", "cream", "no-bake"]
+    },
+    {
+      "id": "panna-cotta",
+      "title": "Panna Cotta",
+      "originalName": "Panna Cotta",
+      "description": "Delicate Italian dessert - vanilla milk cream with berry sauce",
+      "category": "Desserts",
+      "image": "images/Panna_Cotta.jpg",
+      "prepTime": 15,
+      "cookTime": 5,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "heavy cream", "quantity": "500", "unit": "ml" },
+        { "name": "milk", "quantity": "200", "unit": "ml" },
+        { "name": "sugar", "quantity": "80", "unit": "g" },
+        { "name": "vanilla extract", "quantity": "1", "unit": "tsp" },
+        { "name": "gelatin powder", "quantity": "10", "unit": "g" },
+        { "name": "cold water", "quantity": "3", "unit": "tbsp" },
+        { "name": "fresh berries", "quantity": "200", "unit": "g" }
+      ],
+      "instructions": [
+        "Soak the gelatin in cold water for 5 minutes",
+        "In a pot, heat cream, milk, sugar and vanilla over medium heat until sugar dissolves (don't boil)",
+        "Remove from heat and add the soaked gelatin. Stir until completely dissolved",
+        "Strain the mixture through a fine sieve",
+        "Pour into glasses or lightly oiled individual molds",
+        "Refrigerate for at least 4 hours until set",
+        "Serve as is or unmold onto a plate. Garnish with fresh berries or berry sauce"
+      ],
+      "tags": ["cream", "vanilla", "easy", "elegant"]
+    },
+    {
+      "id": "cannoli-siciliani",
+      "title": "Cannoli Siciliani",
+      "originalName": "Cannoli Siciliani",
+      "description": "Fried pastry tubes filled with sweet ricotta cream",
+      "category": "Desserts",
+      "image": "images/Cannoli_Siciliani.jpg",
+      "prepTime": 45,
+      "cookTime": 20,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "flour", "quantity": "250", "unit": "g" },
+        { "name": "sugar", "quantity": "30", "unit": "g" },
+        { "name": "butter", "quantity": "30", "unit": "g" },
+        { "name": "ricotta", "quantity": "500", "unit": "g" },
+        { "name": "powdered sugar", "quantity": "150", "unit": "g" },
+        { "name": "chocolate chips", "quantity": "100", "unit": "g" },
+        { "name": "chopped pistachios", "quantity": "50", "unit": "g" }
+      ],
+      "instructions": [
+        "Make dough from flour, sugar, butter and white wine",
+        "Roll very thin and cut circles",
+        "Wrap around metal tubes",
+        "Deep fry in oil until golden",
+        "Make filling: ricotta, powdered sugar and chocolate chips",
+        "Fill tubes before serving",
+        "Garnish with pistachios and powdered sugar"
+      ],
+      "tags": ["Sicilian", "ricotta", "fried", "traditional"]
+    },
+    {
+      "id": "gelato",
+      "title": "Gelato Italiano",
+      "originalName": "Gelato Italiano",
+      "description": "Creamy and natural Italian ice cream in various flavors",
+      "category": "Desserts",
+      "image": "images/Gelato.jpg",
+      "prepTime": 30,
+      "cookTime": 10,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "whole milk", "quantity": "500", "unit": "ml" },
+        { "name": "cream", "quantity": "200", "unit": "ml" },
+        { "name": "sugar", "quantity": "150", "unit": "g" },
+        { "name": "egg yolks", "quantity": "4", "unit": "pcs" },
+        { "name": "vanilla extract", "quantity": "1", "unit": "tsp" }
+      ],
+      "instructions": [
+        "Heat milk and cream to almost boiling",
+        "Beat yolks with sugar until light",
+        "Gradually add hot milk to yolks while stirring",
+        "Return to pot and cook to 82°C",
+        "Remove from heat and add vanilla",
+        "Refrigerate for 4 hours",
+        "Churn in ice cream maker according to instructions"
+      ],
+      "tags": ["ice cream", "creamy", "vanilla", "cold"]
+    },
+    {
+      "id": "affogato",
+      "title": "Affogato",
+      "originalName": "Affogato",
+      "description": "Simple and perfect dessert - vanilla gelato ball with hot espresso",
+      "category": "Desserts",
+      "image": "images/Affogato.jpg",
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "quality vanilla gelato", "quantity": "4", "unit": "scoops" },
+        { "name": "hot espresso", "quantity": "4", "unit": "shots" },
+        { "name": "amaretto liqueur (optional)", "quantity": "40", "unit": "ml" }
+      ],
+      "instructions": [
+        "Place a scoop of gelato in a glass or bowl",
+        "Make fresh espresso",
+        "Pour hot espresso over the gelato",
+        "Add amaretto liqueur if desired",
+        "Serve immediately"
+      ],
+      "tags": ["coffee", "ice cream", "simple", "quick"]
+    },
+    {
+      "id": "zabaione",
+      "title": "Zabaione",
+      "originalName": "Zabaione",
+      "description": "Hot and airy Italian custard made from egg yolks, sugar and marsala wine",
+      "category": "Desserts",
+      "image": "images/Zabaione.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "egg yolks", "quantity": "6", "unit": "pcs" },
+        { "name": "sugar", "quantity": "100", "unit": "g" },
+        { "name": "marsala wine", "quantity": "120", "unit": "ml" }
+      ],
+      "instructions": [
+        "Place bowl over bain-marie",
+        "Whisk yolks with sugar",
+        "Add marsala",
+        "Whisk continuously for 10-12 minutes",
+        "Cream will expand and become creamy and airy",
+        "Serve warm in glasses",
+        "Optional: with berries or cookies"
+      ],
+      "tags": ["custard", "marsala", "warm", "traditional"]
+    },
+    {
+      "id": "sfogliatella",
+      "title": "Sfogliatella",
+      "originalName": "Sfogliatella",
+      "description": "Neapolitan layered pastry with ricotta and semolina cream filling",
+      "category": "Desserts",
+      "image": "images/Sfogliatella.jpg",
+      "prepTime": 90,
+      "cookTime": 25,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "phyllo dough", "quantity": "500", "unit": "g" },
+        { "name": "ricotta", "quantity": "250", "unit": "g" },
+        { "name": "semolina", "quantity": "100", "unit": "g" },
+        { "name": "milk", "quantity": "250", "unit": "ml" },
+        { "name": "sugar", "quantity": "150", "unit": "g" },
+        { "name": "vanilla extract", "quantity": "1", "unit": "tsp" },
+        { "name": "candied fruit", "quantity": "100", "unit": "g" }
+      ],
+      "instructions": [
+        "Make semolina cream: cook semolina in milk with sugar",
+        "Cool and add ricotta, vanilla and candied fruit",
+        "Roll phyllo dough thin",
+        "Brush with melted butter between layers",
+        "Cut rectangles and fill with cream",
+        "Shape into cone form",
+        "Bake at 180°C for 20-25 minutes"
+      ],
+      "tags": ["Naples", "layers", "ricotta", "complex"]
+    },
+    {
+      "id": "biscotti",
+      "title": "Biscotti di Prato",
+      "originalName": "Biscotti di Prato",
+      "description": "Crunchy Italian cookies with almonds for dipping in coffee or dessert wine",
+      "category": "Desserts",
+      "image": "images/Biscotti.jpg",
+      "prepTime": 20,
+      "cookTime": 50,
+      "servings": 24,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "flour", "quantity": "300", "unit": "g" },
+        { "name": "sugar", "quantity": "200", "unit": "g" },
+        { "name": "eggs", "quantity": "3", "unit": "pcs" },
+        { "name": "whole almonds", "quantity": "150", "unit": "g" },
+        { "name": "baking powder", "quantity": "2", "unit": "tsp" },
+        { "name": "almond extract", "quantity": "1", "unit": "tsp" }
+      ],
+      "instructions": [
+        "Mix flour, sugar and baking powder",
+        "Add eggs and almond extract",
+        "Knead and add almonds",
+        "Shape into 2 flat logs",
+        "Bake for 30 minutes at 175°C",
+        "Cool for 10 minutes and cut diagonally into slices",
+        "Return to oven for 15 minutes (each side 7-8 minutes)",
+        "Cool completely. Will keep for weeks"
+      ],
+      "tags": ["cookies", "almonds", "crunchy", "storage"]
+    },
+    {
+      "id": "amaretti",
+      "title": "Amaretti",
+      "originalName": "Amaretti",
+      "description": "Soft Italian almond cookies with bitter taste",
+      "category": "Desserts",
+      "image": "images/Amaretti.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 20,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "almond flour", "quantity": "250", "unit": "g" },
+        { "name": "sugar", "quantity": "250", "unit": "g" },
+        { "name": "egg whites", "quantity": "2", "unit": "pcs" },
+        { "name": "bitter almond extract", "quantity": "1/2", "unit": "tsp" },
+        { "name": "powdered sugar", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Mix almond flour and sugar",
+        "Add egg whites and extract",
+        "Knead into smooth paste",
+        "Shape small balls",
+        "Place on baking sheet with parchment paper",
+        "Sprinkle powdered sugar",
+        "Bake at 170°C for 12-15 minutes",
+        "Cool and serve"
+      ],
+      "tags": ["almonds", "soft", "simple", "traditional"]
+    },
+    {
+      "id": "panettone",
+      "title": "Panettone",
+      "originalName": "Panettone",
+      "description": "Milanese holiday cake with raisins and candied fruit",
+      "category": "Desserts",
+      "image": "images/Panettone.jpg",
+      "prepTime": 240,
+      "cookTime": 50,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "flour", "quantity": "500", "unit": "g" },
+        { "name": "butter", "quantity": "200", "unit": "g" },
+        { "name": "sugar", "quantity": "150", "unit": "g" },
+        { "name": "eggs", "quantity": "4", "unit": "pcs" },
+        { "name": "fresh yeast", "quantity": "25", "unit": "g" },
+        { "name": "raisins", "quantity": "150", "unit": "g" },
+        { "name": "candied fruit", "quantity": "100", "unit": "g" }
+      ],
+      "instructions": [
+        "Make rich yeast dough",
+        "Knead well and let rise for 2 hours",
+        "Gradually add butter, sugar and eggs",
+        "Add raisins and fruit",
+        "Let rise again",
+        "Transfer to tall panettone mold",
+        "Bake for one hour at 170°C",
+        "Hang upside down until cool"
+      ],
+      "tags": ["holiday", "Milan", "yeast", "traditional"]
+    },
+    {
+      "id": "torta-caprese",
+      "title": "Torta Caprese",
+      "originalName": "Torta Caprese",
+      "description": "Flourless Italian chocolate and almond cake",
+      "category": "Desserts",
+      "image": "images/Torta_Caprese.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 10,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "dark chocolate", "quantity": "200", "unit": "g" },
+        { "name": "butter", "quantity": "200", "unit": "g" },
+        { "name": "sugar", "quantity": "200", "unit": "g" },
+        { "name": "eggs", "quantity": "4", "unit": "pcs" },
+        { "name": "almond flour", "quantity": "200", "unit": "g" },
+        { "name": "powdered sugar", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Melt chocolate and butter",
+        "Separate yolks and whites",
+        "Mix yolks with sugar",
+        "Add chocolate and almond flour",
+        "Whip whites and fold in",
+        "Bake at 170°C for 35-40 minutes",
+        "Cool and dust with powdered sugar"
+      ],
+      "tags": ["chocolate", "gluten-free", "almonds", "Capri"]
+    },
+    {
+      "id": "crostata-di-frutta",
+      "title": "Crostata di Frutta",
+      "originalName": "Crostata di Frutta",
+      "description": "Italian tart with pastry cream and fresh fruit",
+      "category": "Desserts",
+      "image": "images/Crostata_di_Frutta.jpg",
+      "prepTime": 40,
+      "cookTime": 25,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "flour", "quantity": "250", "unit": "g" },
+        { "name": "butter", "quantity": "125", "unit": "g" },
+        { "name": "sugar", "quantity": "100", "unit": "g" },
+        { "name": "egg yolks", "quantity": "2", "unit": "pcs" },
+        { "name": "milk", "quantity": "500", "unit": "ml" },
+        { "name": "fresh fruit", "quantity": "300", "unit": "g" }
+      ],
+      "instructions": [
+        "Make shortcrust pastry from flour, butter, sugar and yolk",
+        "Refrigerate for 30 minutes",
+        "Roll out and place in tart pan",
+        "Blind bake for 20 minutes",
+        "Make pastry cream from milk, yolks and sugar",
+        "Fill baked tart with cold cream",
+        "Decorate with fresh fruit"
+      ],
+      "tags": ["tart", "fruit", "cream", "colorful"]
+    },
+    {
+      "id": "lasagna-bolognese",
+      "title": "Lasagne alla Bolognese",
+      "originalName": "Lasagne alla Bolognese",
+      "description": "Rich and multi-layered lasagna with Bolognese sauce, béchamel and parmesan",
+      "category": "Main Dishes",
+      "image": "images/Lasagna_Bolognese.jpg",
+      "prepTime": 40,
+      "cookTime": 60,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "lasagna sheets", "quantity": "400", "unit": "g" },
+        { "name": "ground meat", "quantity": "500", "unit": "g" },
+        { "name": "peeled tomatoes", "quantity": "800", "unit": "g" },
+        { "name": "onion, carrot and celery", "quantity": "1/2", "unit": "cup each" },
+        { "name": "red wine", "quantity": "200", "unit": "ml" },
+        { "name": "milk", "quantity": "500", "unit": "ml" },
+        { "name": "flour", "quantity": "50", "unit": "g" },
+        { "name": "butter", "quantity": "50", "unit": "g" },
+        { "name": "parmesan cheese", "quantity": "200", "unit": "g" },
+        { "name": "mozzarella", "quantity": "250", "unit": "g" }
+      ],
+      "instructions": [
+        "Make Bolognese sauce: fry chopped onion, carrot and celery until golden",
+        "Add ground meat and cook until browned. Add wine and evaporate",
+        "Add tomatoes and cook over low heat for 45 minutes. Season with salt, pepper and oregano",
+        "Make béchamel sauce: melt butter, add flour and fry for a minute. Add milk gradually while stirring until thick sauce forms",
+        "Preheat oven to 180°C",
+        "In baking dish: layer of Bolognese sauce, lasagna sheets, béchamel, parmesan. Repeat 3-4 times",
+        "Top layer: béchamel and grated parmesan and mozzarella on top",
+        "Cover with aluminum foil and bake for 30 minutes. Remove cover and bake for another 15 minutes until golden",
+        "Let rest for 10 minutes before cutting"
+      ],
+      "tags": ["meat", "layers", "baking", "family"]
+    },
+    {
+      "id": "ossobuco",
+      "title": "Ossobuco alla Milanese",
+      "originalName": "Ossobuco alla Milanese",
+      "description": "Famous Milanese dish - veal shanks slowly cooked in tomato sauce and white wine",
+      "category": "Main Dishes",
+      "image": "images/Ossobuco.jpg",
+      "prepTime": 20,
+      "cookTime": 120,
+      "servings": 4,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "veal shank slices (with bone)", "quantity": "4", "unit": "pcs" },
+        { "name": "flour", "quantity": "100", "unit": "g" },
+        { "name": "onion, carrot and celery", "quantity": "1/2", "unit": "cup each" },
+        { "name": "dry white wine", "quantity": "300", "unit": "ml" },
+        { "name": "peeled tomatoes", "quantity": "400", "unit": "g" },
+        { "name": "chicken broth", "quantity": "500", "unit": "ml" },
+        { "name": "garlic", "quantity": "3", "unit": "cloves" },
+        { "name": "gremolata: parsley, lemon, garlic", "quantity": "to", "unit": "taste" },
+        { "name": "olive oil", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Season the shank slices with salt and pepper and coat in flour",
+        "In a heavy pot, heat olive oil and sear the meat on both sides until golden. Remove aside",
+        "In the same pot, fry chopped onion, carrot and celery until soft",
+        "Add white wine and evaporate to half",
+        "Add tomatoes, chicken broth and a rosemary sprig",
+        "Return the meat to the pot. Cover and bring to a boil",
+        "Transfer to oven at 160°C and cook for two hours until meat is tender and falls apart easily",
+        "Make gremolata: finely chop parsley, garlic and lemon zest",
+        "Serve the ossobuco with sauce from the pot, sprinkle gremolata. Excellent with yellow risotto or polenta"
+      ],
+      "tags": ["meat", "Italian", "slow cooking", "Milan"]
+    },
+    {
+      "id": "saltimbocca-romana",
+      "title": "Saltimbocca alla Romana",
+      "originalName": "Saltimbocca alla Romana",
+      "description": "Tender veal cutlets with prosciutto and sage",
+      "category": "Main Dishes",
+      "image": "images/Saltimbocca_Romana.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "thin veal cutlets", "quantity": "8", "unit": "pcs" },
+        { "name": "prosciutto", "quantity": "8", "unit": "slices" },
+        { "name": "fresh sage leaves", "quantity": "16", "unit": "pcs" },
+        { "name": "white wine", "quantity": "150", "unit": "ml" },
+        { "name": "butter", "quantity": "60", "unit": "g" },
+        { "name": "flour", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Place prosciutto and sage leaves on each veal cutlet",
+        "Secure with toothpick",
+        "Lightly coat in flour",
+        "Fry in butter for 2-3 minutes on each side",
+        "Add white wine",
+        "Reduce sauce until thick",
+        "Serve immediately with the sauce"
+      ],
+      "tags": ["veal", "prosciutto", "sage", "Roman"]
+    },
+    {
+      "id": "pollo-cacciatora",
+      "title": "Pollo alla Cacciatora",
+      "originalName": "Pollo alla Cacciatora",
+      "description": "Hunter's chicken - cooked with tomatoes, mushrooms and herbs",
+      "category": "Main Dishes",
+      "image": "images/Pollo_Cacciatora.jpg",
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "chicken cut into pieces", "quantity": "1.5", "unit": "kg" },
+        { "name": "peeled tomatoes", "quantity": "500", "unit": "g" },
+        { "name": "mushrooms", "quantity": "250", "unit": "g" },
+        { "name": "red wine", "quantity": "200", "unit": "ml" },
+        { "name": "onion", "quantity": "2", "unit": "pcs" },
+        { "name": "rosemary and thyme", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Sear chicken pieces in olive oil",
+        "Remove and in the same pot fry onion",
+        "Add mushrooms and cook for 5 minutes",
+        "Add wine and evaporate",
+        "Add tomatoes and herbs",
+        "Return chicken, cover and cook for 40 minutes",
+        "Serve with polenta or bread"
+      ],
+      "tags": ["chicken", "tomatoes", "rustic", "traditional"]
+    },
+    {
+      "id": "vitello-tonnato",
+      "title": "Vitello Tonnato",
+      "originalName": "Vitello Tonnato",
+      "description": "Cold veal with creamy tuna sauce",
+      "category": "Main Dishes",
+      "image": "images/Vitello_Tonnato.jpg",
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "veal roast", "quantity": "800", "unit": "g" },
+        { "name": "canned tuna", "quantity": "200", "unit": "g" },
+        { "name": "anchovies", "quantity": "4", "unit": "fillets" },
+        { "name": "capers", "quantity": "3", "unit": "tbsp" },
+        { "name": "mayonnaise", "quantity": "200", "unit": "g" },
+        { "name": "white wine", "quantity": "200", "unit": "ml" }
+      ],
+      "instructions": [
+        "Cook veal in white wine, broth and vegetables for one hour",
+        "Cool and slice very thinly",
+        "Make sauce: blend tuna, anchovies, capers and mayonnaise",
+        "Dilute with a little cooking liquid",
+        "Arrange veal slices on platter",
+        "Cover with tuna sauce",
+        "Refrigerate for 3 hours before serving"
+      ],
+      "tags": ["cold", "veal", "tuna", "summer"]
+    },
+    {
+      "id": "melanzane-parmigiana",
+      "title": "Melanzane alla Parmigiana",
+      "originalName": "Melanzane alla Parmigiana",
+      "description": "Layered fried eggplant with tomato sauce, mozzarella and parmesan",
+      "category": "Main Dishes",
+      "image": "images/Melanzane_Parmigiana.jpg",
+      "prepTime": 40,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "eggplants", "quantity": "3", "unit": "pcs" },
+        { "name": "tomato sauce", "quantity": "600", "unit": "g" },
+        { "name": "mozzarella", "quantity": "400", "unit": "g" },
+        { "name": "parmesan", "quantity": "150", "unit": "g" },
+        { "name": "basil", "quantity": "1", "unit": "handful" },
+        { "name": "oil for frying", "quantity": "as", "unit": "needed" }
+      ],
+      "instructions": [
+        "Slice eggplants, salt and let sit for 30 minutes",
+        "Rinse and dry",
+        "Deep fry in oil until golden",
+        "In baking dish: sauce, layer of eggplant, mozzarella, parmesan, basil",
+        "Repeat layers",
+        "Bake at 180°C for 40 minutes",
+        "Let rest for 10 minutes before serving"
+      ],
+      "tags": ["eggplant", "vegetarian", "cheese", "layers"]
+    },
+    {
+      "id": "arancini",
+      "title": "Arancini Siciliani",
+      "originalName": "Arancini Siciliani",
+      "description": "Sicilian stuffed and fried rice balls",
+      "category": "Main Dishes",
+      "image": "images/Arancini.jpg",
+      "prepTime": 45,
+      "cookTime": 30,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "arborio rice", "quantity": "400", "unit": "g" },
+        { "name": "ground meat", "quantity": "300", "unit": "g" },
+        { "name": "peas", "quantity": "100", "unit": "g" },
+        { "name": "tomato sauce", "quantity": "200", "unit": "g" },
+        { "name": "mozzarella", "quantity": "150", "unit": "g" },
+        { "name": "eggs", "quantity": "3", "unit": "pcs" },
+        { "name": "breadcrumbs", "quantity": "200", "unit": "g" }
+      ],
+      "instructions": [
+        "Cook rice with broth and saffron",
+        "Cool and mix with egg and parmesan",
+        "Make filling: meat, peas and tomato sauce",
+        "Shape rice balls with filling and mozzarella in center",
+        "Dip in egg and breadcrumbs",
+        "Deep fry in oil until golden",
+        "Serve hot"
+      ],
+      "tags": ["Sicilian", "rice", "fried", "stuffed"]
+    },
+    {
+      "id": "pomodori-ripieni",
+      "title": "Pomodori Ripieni",
+      "originalName": "Pomodori Ripieni",
+      "description": "Tomatoes stuffed with rice, basil and parmesan",
+      "category": "Main Dishes",
+      "image": "images/Pomodori_Ripieni.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "large tomatoes", "quantity": "6", "unit": "pcs" },
+        { "name": "rice", "quantity": "150", "unit": "g" },
+        { "name": "basil", "quantity": "1", "unit": "handful" },
+        { "name": "parmesan", "quantity": "80", "unit": "g" },
+        { "name": "garlic", "quantity": "2", "unit": "cloves" },
+        { "name": "olive oil", "quantity": "80", "unit": "ml" }
+      ],
+      "instructions": [
+        "Cut tops off tomatoes and hollow out inside",
+        "Cook rice halfway",
+        "Mix with basil, parmesan, garlic and olive oil",
+        "Fill tomatoes",
+        "Replace tops",
+        "Bake at 180°C for 35-40 minutes",
+        "Serve hot or cold"
+      ],
+      "tags": ["tomatoes", "rice", "vegetarian", "summer"]
+    },
+    {
+      "id": "polpette-al-sugo",
+      "title": "Polpette al Sugo",
+      "originalName": "Polpette al Sugo",
+      "description": "Italian meatballs in tomato sauce",
+      "category": "Main Dishes",
+      "image": "images/Polpette_al_Sugo.jpg",
+      "prepTime": 25,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "ground meat", "quantity": "600", "unit": "g" },
+        { "name": "breadcrumbs", "quantity": "100", "unit": "g" },
+        { "name": "eggs", "quantity": "2", "unit": "pcs" },
+        { "name": "parmesan", "quantity": "80", "unit": "g" },
+        { "name": "tomato sauce", "quantity": "600", "unit": "g" },
+        { "name": "garlic and parsley", "quantity": "to", "unit": "taste" }
+      ],
+      "instructions": [
+        "Mix meat, breadcrumbs, egg, parmesan, garlic and parsley",
+        "Shape into balls",
+        "Sear in pan until golden on all sides",
+        "Make tomato sauce in pot",
+        "Add meatballs to sauce",
+        "Cook for 25 minutes over low heat",
+        "Serve with pasta or bread"
+      ],
+      "tags": ["meatballs", "meat", "tomato sauce", "family"]
+    },
+    {
+      "id": "bistecca-fiorentina",
+      "title": "Bistecca alla Fiorentina",
+      "originalName": "Bistecca alla Fiorentina",
+      "description": "Giant Florentine T-bone steak on the grill",
+      "category": "Main Dishes",
+      "image": "images/Bistecca_Fiorentina.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "T-bone steak", "quantity": "1.2", "unit": "kg" },
+        { "name": "olive oil", "quantity": "60", "unit": "ml" },
+        { "name": "coarse salt", "quantity": "to", "unit": "taste" },
+        { "name": "black pepper", "quantity": "to", "unit": "taste" },
+        { "name": "lemon", "quantity": "1", "unit": "pc" }
+      ],
+      "instructions": [
+        "Remove meat from refrigerator one hour before",
+        "Heat grill or cast iron pan very hot",
+        "Brush meat with olive oil",
+        "Grill for 5-7 minutes on each side (medium-rare)",
+        "Season with salt and pepper while still hot",
+        "Let rest for 5 minutes",
+        "Serve with olive oil and lemon"
+      ],
+      "tags": ["meat", "grill", "Florentine", "simple"]
+    }
+  ]
+}

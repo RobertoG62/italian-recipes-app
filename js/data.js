@@ -4,31 +4,35 @@
 
 const RecipeData = (() => {
     const state = {
+        currentLang: 'he',
         recipes: [],
         filteredRecipes: [],
         searchQuery: '',
-        activeCategory: 'הכל',
+        activeCategory: 'all',
         categories: [],
         isLoaded: false,
     };
 
-    async function fetchRecipes() {
-        const response = await fetch('data/recipes.json');
-        if (!response.ok) throw new Error('Failed to load recipes');
+    async function fetchRecipes(lang) {
+        const language = lang || state.currentLang || 'he';
+        const response = await fetch(`data/recipes-${language}.json`);
+        if (!response.ok) {
+            throw new Error(`Failed to load recipes-${language}.json`);
+        }
         const data = await response.json();
         state.recipes = data.recipes;
         state.filteredRecipes = [...state.recipes];
-        state.categories = ['הכל', ...new Set(state.recipes.map(r => r.category))];
+        state.categories = ['all', ...new Set(state.recipes.map(r => r.category))];
         state.isLoaded = true;
         return state;
     }
 
     function filterRecipes(query, category) {
         state.searchQuery = (query || '').trim();
-        state.activeCategory = category || 'הכל';
+        state.activeCategory = category || 'all';
 
         state.filteredRecipes = state.recipes.filter(recipe => {
-            const matchesCategory = state.activeCategory === 'הכל' || recipe.category === state.activeCategory;
+            const matchesCategory = state.activeCategory === 'all' || recipe.category === state.activeCategory;
             if (!matchesCategory) return false;
             if (!state.searchQuery) return true;
 
@@ -52,5 +56,11 @@ const RecipeData = (() => {
         return state;
     }
 
-    return { fetchRecipes, filterRecipes, getRecipeById, getState };
+    async function switchLanguage(lang) {
+        state.currentLang = lang;
+        await fetchRecipes(lang);
+        return state;
+    }
+
+    return { fetchRecipes, switchLanguage, filterRecipes, getRecipeById, getState };
 })();
