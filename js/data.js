@@ -8,7 +8,7 @@ const RecipeData = (() => {
         recipes: [],
         filteredRecipes: [],
         searchQuery: '',
-        activeCategory: 'all',
+        activeCategory: '',
         categories: [],
         isLoaded: false,
     };
@@ -22,17 +22,18 @@ const RecipeData = (() => {
         const data = await response.json();
         state.recipes = data.recipes;
         state.filteredRecipes = [...state.recipes];
-        state.categories = ['all', ...new Set(state.recipes.map(r => r.category))];
+        state.categories = [i18n.t('categories.all'), ...new Set(state.recipes.map(r => r.category))];
         state.isLoaded = true;
         return state;
     }
 
     function filterRecipes(query, category) {
         state.searchQuery = (query || '').trim();
-        state.activeCategory = category || 'all';
+        const allLabel = i18n.t('categories.all');
+        state.activeCategory = category || allLabel;
 
         state.filteredRecipes = state.recipes.filter(recipe => {
-            const matchesCategory = state.activeCategory === 'all' || recipe.category === state.activeCategory;
+            const matchesCategory = state.activeCategory === allLabel || recipe.category === state.activeCategory;
             if (!matchesCategory) return false;
             if (!state.searchQuery) return true;
 
