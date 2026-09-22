@@ -73,7 +73,7 @@
         const heroTitle = document.querySelector('#hero h1');
         if (heroTitle) {
             if (i18n.getLanguage() === 'he') {
-                heroTitle.innerHTML = `${i18n.t('hero.title')} <span class="text-it-primary">${i18n.t('hero.titleHighlight')}</span>`;
+                heroTitle.innerHTML = `${i18n.t('hero.title')} <span class="text-it-primary-light">${i18n.t('hero.titleHighlight')}</span>`;
             } else {
                 heroTitle.innerHTML = `<span class="text-it-primary">${i18n.t('hero.titleHighlight')}</span> ${i18n.t('hero.title')}`;
             }
